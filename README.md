@@ -1,7 +1,7 @@
 <!-- Example 1 Content -->
-| Personal | HackersAndSlackers |
+| Activity| 
 | ----------- | ----------- |
-| ![Metrics](/metrics.base.svg) | ![Metrics](/metrics.organization.svg) |
+![Metrics](/metrics.base.svg) 
 
 ![Calendar](/metrics.plugin.calendar.svg)
 
