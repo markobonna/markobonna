@@ -1,15 +1,15 @@
-name: Metrics
+name: GitHub Metrics Generator
 on:
-  # Schedule daily updates
+  # Schedule daily updates at 00:00 UTC
   schedule: [{cron: '0 0 * * *'}]
   # Manual trigger
   workflow_dispatch:
-  # Run on push to main
+  # Run on push to main/master
   push: {branches: [main, master]}
 
 jobs:
   github-metrics:
-    name: GitHub Metrics
+    name: Generate GitHub Metrics
     runs-on: ubuntu-latest
     permissions:
       contents: write
@@ -24,57 +24,105 @@ jobs:
       - name: Generate metrics
         uses: lowlighter/metrics@latest
         with:
-          # Authentication token (required)
+          # Authentication
           token: ${{ secrets.METRICS_TOKEN }}
-          # Fix for the version mismatch error
           committer_token: ${{ secrets.METRICS_TOKEN }}
           
-          # Base metrics
-          base: header, repositories
+          # Base configuration
+          base: header, repositories, activity, community
           base_indepth: yes
           
-          # Language stats
-          plugin_languages: yes
-          plugin_languages_ignored: html,css,less,scss,sass
-          plugin_languages_skipped: _test_,tests
-          plugin_languages_indepth: yes
-          plugin_languages_details: lines,bytes-size
+          # Core metrics
+          plugin_achievements: yes
+          plugin_achievements_threshold: B
           
-          # Activity stats
+          # Activity metrics
           plugin_activity: yes
-          plugin_activity_limit: 10
-          plugin_activity_days: 30
-          plugin_activity_filter: push,pull_request,issues,issue_comment,commit_comment
+          plugin_activity_limit: 15
+          plugin_activity_days: 60
+          plugin_activity_filter: all
           
-          # Follow-up on issues and PRs
+          # Code analysis
+          plugin_code: yes
+          plugin_code_lines: 3
+          
+          # Calendar and habits
+          plugin_calendar: yes
+          plugin_isocalendar: yes
+          plugin_habits: yes
+          plugin_habits_from: 100
+          plugin_habits_facts: yes
+          plugin_habits_days: 90
+          
+          # Follow-up and collaboration
           plugin_followup: yes
           plugin_followup_indepth: yes
+          plugin_contributors: yes
           
-          # People (followers/following)
+          # People and social
           plugin_people: yes
-          plugin_people_limit: 10
+          plugin_people_limit: 15
+          
+          # Repository metrics
+          plugin_repositories: yes
+          plugin_repositories_affiliations: owner,collaborator,organization_member
+          plugin_repositories_forks: yes
+          
+          # Code and languages
+          plugin_languages: yes
+          plugin_languages_ignored: html,css,less,scss,sass,markdown,dockerfile,makefile,yaml,json,toml,svg
+          plugin_languages_skipped: _test_,tests,node_modules,dist,build,out
+          plugin_languages_indepth: yes
+          plugin_languages_details: lines,bytes-size,percentage
           
           # Stars and stargazers
           plugin_stars: yes
-          plugin_stars_limit: 10
+          plugin_stars_limit: 15
           plugin_stargazers: yes
+          plugin_starlists: yes
           
-          # Sponsors and sponsorships
+          # Topics and interests
+          plugin_topics: yes
+          plugin_topics_limit: 20
+          plugin_topics_mode: starred
+          
+          # Sponsors and funding
           plugin_sponsors: yes
           plugin_sponsorships: yes
           
-          # GitHub calendar (shows commit activity)
-          plugin_calendar: yes
+          # Discussions
+          plugin_discussions: yes
           
-          # Repositories (includes watched and starred)
-          plugin_repositories: yes
+          # Gists
+          plugin_gists: yes
           
-          # Topics (for starred topics)
-          plugin_topics: yes
+          # Projects
+          plugin_projects: yes
+          plugin_projects_limit: 10
           
-          # Output filename
+          # Output configuration
           filename: metrics.base.svg
           
-          # Configuration
+          # Display settings
           config_timezone: America/Los_Angeles
-          config_display: columns
+          config_display: large
+          
+          # Optimizations
+          optimize: css,xml
+          
+          # Template and theming
+          template: classic
+          
+          # Additional features
+          plugin_licenses: yes
+          plugin_traffic: yes
+          
+          # Community and social
+          plugin_reactions: yes
+          
+          # Advanced features
+          plugin_notable: yes
+          plugin_notable_repositories: starred
+          
+          # System information (removed as it's not a valid plugin)
+          
