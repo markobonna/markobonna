@@ -12,7 +12,7 @@
 ![Stargazers](metrics.plugin.stargazers.svg)
 
 ![RSS](metrics.plugin.rss.svg)
-
+1
 ----------
 | ![Metrics](/metrics.base.svg) | ![Metrics](/metrics.organization.svg) |
 
