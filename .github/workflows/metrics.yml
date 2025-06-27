@@ -77,3 +77,4 @@ jobs:
           
           # Configuration
           config_timezone: America/Los_Angeles
+          config_display: columns

@@ -31,28 +31,23 @@ I am a versatilist and easily adapt to different hats (Full Stack Web Developer 
 <br>
 
 
-| Metrics | 
-| ------- | 
-| ![Metrics](/metrics.base.svg) | 
+### 📊 GitHub Metrics
+![GitHub Metrics](/metrics.base.svg)
 
-TIME
-![Organization Metrics](/metrics.organization.svg) |
-TIME
-
-### 📅 Activity Calendar
-![Calendar](/metrics.plugin.calendar.svg)
+### 🗓️ Activity Calendar
+![GitHub Calendar](/metrics.plugin.calendar.svg)
 
 ### 📈 Recent Activity
-![Activity](/metrics.plugin.activity.svg)
+![Recent Activity](/metrics.plugin.activity.svg)
 
 ### 💻 Languages
-![Languages](metrics.plugin.languages.details.svg)
+![Languages Used](metrics.plugin.languages.details.svg)
 
 ### 🤝 Collaboration
-![Collaboration](metrics.plugin.followup.user.svg)
+![Collaboration Stats](metrics.plugin.followup.user.svg)
 
 ### ⭐ Stargazers
-![Stargazers](metrics.plugin.stargazers.svg)
+![Stargazers History](metrics.plugin.stargazers.svg)
 
 
 ---
