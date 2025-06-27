@@ -11,47 +11,37 @@ jobs:
   github-metrics:
     name: GitHub Metrics
     runs-on: ubuntu-latest
+    environment: 
+      name: production
     permissions:
       contents: write
-      
+    
     steps:
       - name: Generate metrics
         uses: lowlighter/metrics@latest
         with:
           # Authentication token (required)
           token: ${{ secrets.METRICS_TOKEN }}
-          # Your GitHub username
-          user: markobonna
           
           # Base metrics
           base: header, repositories
-          base_indepth: true
+          base_indepth: yes
           
-          # Plugins
+          # Language stats
           plugin_languages: yes
-          plugin_languages_ignored: html,css,scss,less
+          plugin_languages_ignored: html,css,less,scss,sass
           plugin_languages_skipped: _test_,tests
           plugin_languages_indepth: yes
-          plugin_languages_details: lines, bytes-size
+          plugin_languages_details: lines,bytes-size
           
+          # GitHub calendar
           plugin_calendar: yes
-          plugin_calendar_weeks: 12
-          plugin_calendar_contributions: yes
           
+          # Stargazers
           plugin_stargazers: yes
-          plugin_stargazers_limit: 8
           
-          plugin_followup: yes
-          plugin_followup_indepth: yes
-          
-          # RSS Feed (optional)
-          plugin_rss: yes
-          plugin_rss_limit: 5
-          plugin_rss_url: https://dev.to/feed/
-          
-          # Output settings
+          # Output filename
           filename: metrics.base.svg
           
           # Configuration
           config_timezone: America/Los_Angeles
-          config_order: base.header, base.repositories, calendar, languages, stargazers, followup, rss
