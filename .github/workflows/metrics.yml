@@ -32,11 +32,38 @@ jobs:
           plugin_languages_indepth: yes
           plugin_languages_details: lines,bytes-size
           
-          # GitHub calendar
+          # Activity stats
+          plugin_activity: yes
+          plugin_activity_limit: 10
+          plugin_activity_days: 30
+          plugin_activity_filter: push,pull_request,issues,issue_comment,commit_comment
+          
+          # Follow-up on issues and PRs
+          plugin_followup: yes
+          plugin_followup_indepth: yes
+          
+          # People (followers/following)
+          plugin_people: yes
+          plugin_people_limit: 10
+          
+          # Stars and stargazers
+          plugin_stars: yes
+          plugin_stars_limit: 10
+          plugin_stargazers: yes
+          
+          # Sponsors and sponsorships
+          plugin_sponsors: yes
+          plugin_sponsorships: yes
+          
+          # GitHub calendar (shows commit activity)
           plugin_calendar: yes
           
-          # Stargazers
-          plugin_stargazers: yes
+          # Repositories (includes watched and starred)
+          plugin_repositories: yes
+          plugin_repositories_limit: 10
+          
+          # Topics (for starred topics)
+          plugin_topics: yes
           
           # Output filename
           filename: metrics.base.svg

@@ -1,18 +1,25 @@
-<!-- Example 1 Content -->
-| Activity| 
-| ----------- | ----------- |
-----------
-| ![Metrics](/metrics.base.svg) | ![Metrics](/metrics.organization.svg) |
+<!-- GitHub Metrics -->
+## 📊 GitHub Activity
 
+### 🎯 Overview
+| Metrics | Organization |
+| ------- | ------------ |
+| ![Metrics](/metrics.base.svg) | ![Organization Metrics](/metrics.organization.svg) |
+
+### 📅 Activity Calendar
 ![Calendar](/metrics.plugin.calendar.svg)
 
+### 📈 Recent Activity
+![Activity](/metrics.plugin.activity.svg)
+
+### 💻 Languages
 ![Languages](metrics.plugin.languages.details.svg)
 
+### 🤝 Collaboration
 ![Collaboration](metrics.plugin.followup.user.svg)
 
+### ⭐ Stargazers
 ![Stargazers](metrics.plugin.stargazers.svg)
-
-![RSS](metrics.plugin.rss.svg)
 
 
 ---
