@@ -71,7 +71,7 @@
 <a href="https://airflow.apache.org/" target="_blank"> <img align="left" src="https://raw.githubusercontent.com/markobonna/markobonna/main/assets/icons/apache-airflow.png" alt="apache airflow" height="42px"/> </a> 
 <a href="https://www.getdbt.com/" target="_blank"> <img align="left" src="https://avatars.githubusercontent.com/u/18339788?s=200&v=4" alt="sbt" height="42px"/> </a> 
 <a href="https://www.mlflow.org/" target="_blank"> <img align="left" src="https://avatars.githubusercontent.com/u/39938107?s=200&v=4" alt="MLflow" height="42px"/> </a> 
-<a href="https://wandb.ai/site" target="_blank"> <img align="left" src="https://site.wandb.ai/wp-content/uploads/2023/05/wb-cw.svg" alt="weights-biases" height="42px"/> </a> 
+<a href="https://wandb.ai/site" target="_blank"> <img align="left" src="https://raw.githubusercontent.com/markobonna/markobonna/main/assets/icons/wandb.svg" alt="weights-biases" height="42px"/> </a> 
 <a href="https://lmstudio.ai" target="_blank"> <img align="left" src="https://avatars.githubusercontent.com/u/133744619?s=200&v=4" alt="lmstudio" height="42px"/> </a> 
 
 <br/><br/>
