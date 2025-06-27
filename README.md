@@ -17,6 +17,19 @@
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img align="left" alt="JavaScript" height ="42px"  src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/javascript/javascript.svg"> </a>
 <a href="https://www.typescriptlang.org/" target="_blank"><img align="left" alt="Typescirpt" height ="42px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/typescript/typescript.svg"></a>
 
+
+<br/>
+
+#### Mobile:
+<a href="https://developer.apple.com" target="_blank"> 
+  <img align="left" alt="iOS" height="42px" src="https://raw.githubusercontent.com/markobonna/markobonna/main/assets/icons/apple.svg"> 
+</a>
+<a href="https://createwithplay.com" target="_blank"> 
+  <img align="left" alt="Create with Play" height="42px" src="https://raw.githubusercontent.com/markobonna/markobonna/main/assets/icons/createwithplay.jpeg"> 
+</a>
+<a href="https://developer.android.com" target="_blank"> <img align="left" alt="Android" height ="42px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/android/android.svg"> </a>
+
+
 <br/>
 
 #### Frontend & Web:
@@ -34,6 +47,21 @@
 
 <br/>
 
+
+
+### 🔨 Languages and Tools
+
+| Core Languages | Frontend & Web |
+|---|---|
+| [![Python](https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/python/python.svg)](https://www.python.org) [![JavaScript](https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/javascript/javascript.svg)](https://developer.mozilla.org/en-US/docs/Web/JavaScript) [![TypeScript](https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/typescript/typescript.svg)](https://www.typescriptlang.org/) | [![React](https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/react/react.svg)](https://reactjs.org/) [![Vite](https://avatars.githubusercontent.com/u/65625612?s=200&v=4)](https://vite.dev/) [![Next.js](https://avatars.githubusercontent.com/u/14985020?s=200&v=4)](https://vercel.com/docs/) |
+| **Mobile** | **Backend & Infrastructure** |
+| [![iOS](https://raw.githubusercontent.com/markobonna/markobonna/main/assets/icons/apple.svg)](https://developer.apple.com) [![Create with Play](https://raw.githubusercontent.com/markobonna/markobonna/main/assets/icons/createwithplay.jpeg)](https://createwithplay.com) [![Android](https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/android/android.svg)](https://developer.android.com) | [![Node.js](https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/node/node.svg)](https://nodejs.org) [![AWS](https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/aws/aws.svg)](https://aws.amazon.com) [![Docker](https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/docker/docker.svg)](https://www.docker.com) [![Kubernetes](https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/kubernetes/kubernetes.svg)](https://kubernetes.io) |
+
+
+
+
+<br/>
+
 #### AI/ML Frameworks & Libraries:
 <a href="https://pytorch.org/" target="_blank"> <img align="left" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/pytorch/pytorch.svg" alt="pytorch" height="42px"/> </a> 
 <a href="https://www.tensorflow.org" target="_blank"> <img align="left" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/tensorflow/tensorflow.svg" alt="tensorflow" height="42px"/> </a> 
@@ -41,7 +69,7 @@
 <a href="https://www.llamaindex.ai/" target="_blank"> <img align="left" src="https://avatars.githubusercontent.com/u/130722866?s=200&v=4" alt="llama-index" height="42px"/> </a> 
 <a href="https://huggingface.co/" target="_blank"> <img align="left" src="https://avatars.githubusercontent.com/u/25720743?s=200&v=4" alt="hugging-face-transformers" height="42px"/> </a> 
 <a href="https://scikit-learn.org/" target="_blank"> <img align="left" src="https://avatars.githubusercontent.com/u/365630?s=200&v=4" alt="scikit-learn" height="42px"/> </a> 
-<a href="https://pandas.pydata.org/" target="_blank"> <img align="left" src="https://pandas.pydata.org/static/img/pandas_white.svg" alt="pandas" height="42px"/> </a> 
+<a href="https://pandas.pydata.org/" target="_blank"> <img align="left" src="https://avatars.githubusercontent.com/u/21206976?s=200&v=4" alt="pandas" height="42px"/> </a> 
 <a href="https://numpy.org/" target="_blank"> <img align="left" src="https://avatars.githubusercontent.com/u/288276?s=200&v=4" alt="numpy" height="42px"/> </a> 
 <a href="https://www.llama.com/" target="_blank"> 
   <img align="left" alt="Llama" height="42px" src="https://avatars.githubusercontent.com/u/153379578?s=200&v=4"> 
@@ -57,7 +85,7 @@
 <a href="https://airflow.apache.org/" target="_blank"> <img align="left" src="https://raw.githubusercontent.com/markobonna/markobonna/main/assets/icons/apache-airflow.png" alt="apache airflow" height="42px"/> </a> 
 <a href="https://www.getdbt.com/" target="_blank"> <img align="left" src="https://avatars.githubusercontent.com/u/18339788?s=200&v=4" alt="sbt" height="42px"/> </a> 
 <a href="https://www.mlflow.org/" target="_blank"> <img align="left" src="https://avatars.githubusercontent.com/u/39938107?s=200&v=4" alt="MLflow" height="42px"/> </a> 
-<a href="https://wandb.ai/site" target="_blank"> <img align="left" src="https://wandb.ai/site" alt="weights-biases" height="42px"/> </a> 
+<a href="https://wandb.ai/site" target="_blank"> <img align="left" src="https://site.wandb.ai/wp-content/uploads/2023/05/wb-cw.svg" alt="weights-biases" height="42px"/> </a> 
 <a href="https://lmstudio.ai" target="_blank"> <img align="left" src="https://avatars.githubusercontent.com/u/133744619?s=200&v=4" alt="lmstudio" height="42px"/> </a> 
 
 <br/>
@@ -72,16 +100,6 @@
 
 
 
-<br/>
-
-#### Mobile:
-<a href="https://developer.apple.com" target="_blank"> 
-  <img align="left" alt="iOS" height="42px" src="https://raw.githubusercontent.com/markobonna/markobonna/main/assets/icons/apple.svg"> 
-</a>
-<a href="https://createwithplay.com" target="_blank"> 
-  <img align="left" alt="Create with Play" height="42px" src="https://raw.githubusercontent.com/markobonna/markobonna/main/assets/icons/createwithplay.jpeg"> 
-</a>
-<a href="https://developer.android.com" target="_blank"> <img align="left" alt="Android" height ="42px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/android/android.svg"> </a>
 
 
 
@@ -90,7 +108,7 @@
 
 <br/>
 
----
+
 
 <!-- GitHub Metrics -->
 
