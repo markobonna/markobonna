@@ -17,6 +17,20 @@ I am a versatilist and easily adapt to different hats (Full Stack Web Developer 
 ## 📊 GitHub Activity
 
 ### 🎯 Overview
+<br>
+
+
+### 📊 Github Stats
+<a href='https://github.com/rahul-jha98/github-stats-transparent'>
+  
+![Stats Overview](https://raw.githubusercontent.com/rahul-jha98/github-stats-transparent/output/generated/overview.svg)
+![Most Used Languages](https://raw.githubusercontent.com/rahul-jha98/github-stats-transparent/output/generated/languages.svg)
+
+</a>
+
+<br>
+
+
 | Metrics | 
 | ------- | 
 | ![Metrics](/metrics.base.svg) | 
