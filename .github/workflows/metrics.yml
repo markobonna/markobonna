@@ -15,11 +15,19 @@ jobs:
       contents: write
     
     steps:
+      - name: Checkout repository
+        uses: actions/checkout@v3
+        with:
+          fetch-depth: 0
+          token: ${{ secrets.METRICS_TOKEN }}
+
       - name: Generate metrics
         uses: lowlighter/metrics@latest
         with:
           # Authentication token (required)
           token: ${{ secrets.METRICS_TOKEN }}
+          # Fix for the version mismatch error
+          committer_token: ${{ secrets.METRICS_TOKEN }}
           
           # Base metrics
           base: header, repositories
@@ -60,7 +68,6 @@ jobs:
           
           # Repositories (includes watched and starred)
           plugin_repositories: yes
-          plugin_repositories_limit: 10
           
           # Topics (for starred topics)
           plugin_topics: yes
