@@ -1,128 +1,77 @@
-name: GitHub Metrics Generator
+# Visit https://github.com/lowlighter/metrics#-documentation for full reference
+name: Metrics
 on:
-  # Schedule daily updates at 00:00 UTC
-  schedule: [{cron: '0 0 * * *'}]
-  # Manual trigger
+  # Schedule updates (each hour)
+  schedule: [{cron: "0 * * * *"}]
+  # Lines below let you run workflow manually and on each commit
   workflow_dispatch:
-  # Run on push to main/master
-  push: {branches: [main, master]}
-
+  push: {branches: ["master", "main"]}
 jobs:
   github-metrics:
-    name: Generate GitHub Metrics
     runs-on: ubuntu-latest
     permissions:
       contents: write
-    
     steps:
-      - name: Checkout repository
-        uses: actions/checkout@v3
+      - uses: lowlighter/metrics@latest
         with:
-          fetch-depth: 0
+          # Your GitHub token
+          # The following scopes are required:
+          #  - public_access (default scope)
+          # The following additional scopes may be required:
+          #  - read:org      (for organization related metrics)
+          #  - read:user     (for user related data)
+          #  - read:packages (for some packages related data)
+          #  - repo          (optional, if you want to include private repositories)
           token: ${{ secrets.METRICS_TOKEN }}
 
-      - name: Generate metrics
-        uses: lowlighter/metrics@latest
-        with:
-          # Authentication
-          token: ${{ secrets.METRICS_TOKEN }}
-          committer_token: ${{ secrets.METRICS_TOKEN }}
-          
-          # Base configuration
-          base: header, repositories, activity, community
-          base_indepth: yes
-          
-          # Core metrics
-          plugin_achievements: yes
-          plugin_achievements_threshold: B
-          
-          # Activity metrics
-          plugin_activity: yes
-          plugin_activity_limit: 15
-          plugin_activity_days: 60
-          plugin_activity_filter: all
-          
-          # Code analysis
-          plugin_code: yes
-          plugin_code_lines: 3
-          
-          # Calendar and habits
-          plugin_calendar: yes
-          plugin_isocalendar: yes
-          plugin_habits: yes
-          plugin_habits_from: 100
-          plugin_habits_facts: yes
-          plugin_habits_days: 90
-          
-          # Follow-up and collaboration
-          plugin_followup: yes
-          plugin_followup_indepth: yes
-          plugin_contributors: yes
-          
-          # People and social
-          plugin_people: yes
-          plugin_people_limit: 15
-          
-          # Repository metrics
-          plugin_repositories: yes
-          plugin_repositories_affiliations: owner,collaborator,organization_member
-          plugin_repositories_forks: yes
-          
-          # Code and languages
-          plugin_languages: yes
-          plugin_languages_ignored: html,css,less,scss,sass,markdown,dockerfile,makefile,yaml,json,toml,svg
-          plugin_languages_skipped: _test_,tests,node_modules,dist,build,out
-          plugin_languages_indepth: yes
-          plugin_languages_details: lines,bytes-size,percentage
-          
-          # Stars and stargazers
-          plugin_stars: yes
-          plugin_stars_limit: 15
-          plugin_stargazers: yes
-          plugin_starlists: yes
-          
-          # Topics and interests
-          plugin_topics: yes
-          plugin_topics_limit: 20
-          plugin_topics_mode: starred
-          
-          # Sponsors and funding
-          plugin_sponsors: yes
-          plugin_sponsorships: yes
-          
-          # Discussions
-          plugin_discussions: yes
-          
-          # Gists
-          plugin_gists: yes
-          
-          # Projects
-          plugin_projects: yes
-          plugin_projects_limit: 10
-          
-          # Output configuration
-          filename: metrics.base.svg
-          
-          # Display settings
-          config_timezone: America/Los_Angeles
-          config_display: columns
-          
-          # Optimizations
-          optimize: css,xml
-          
-          # Template and theming
+          # Options
+          user: markobonna
           template: classic
-          
-          # Additional features
-          plugin_licenses: yes
-          plugin_traffic: yes
-          
-          # Community and social
+          base: header, activity, community, repositories, metadata
+          base_indepth: yes
+          config_octicon: yes
+          config_timezone: America/Los_Angeles
+          config_twemoji: yes
+          plugin_achievements: yes
+          plugin_achievements_display: compact
+          plugin_achievements_secrets: yes
+          plugin_achievements_threshold: X
+          plugin_calendar: yes
+          plugin_calendar_limit: 1
+          plugin_followup: yes
+          plugin_followup_archived: yes
+          plugin_followup_sections: repositories
+          plugin_fortune: yes
+          plugin_gists: yes
+          plugin_lines: yes
+          plugin_lines_history_limit: 10
+          plugin_lines_repositories_limit: 10
+          plugin_lines_sections: base
+          plugin_people: yes
+          plugin_people_limit: 24
+          plugin_people_size: 28
+          plugin_people_types: followers, following
           plugin_reactions: yes
-          
-          # Advanced features
-          plugin_notable: yes
-          plugin_notable_repositories: starred
-          
-          # System information (removed as it's not a valid plugin)
-          
+          plugin_reactions_display: absolute
+          plugin_reactions_limit: 200
+          plugin_reactions_limit_discussions: 100
+          plugin_reactions_limit_discussions_comments: 100
+          plugin_reactions_limit_issues: 100
+          plugin_skyline: yes
+          plugin_skyline_frames: 60
+          plugin_skyline_quality: 0.5
+          plugin_skyline_settings: |
+            {
+              "url": "https://skyline.github.com/${login}/${year}",
+              "ready": "[...document.querySelectorAll('span')].map(span => span.innerText).includes('Share on Twitter')",
+              "wait": 1,
+              "hide": "button, footer, a"
+            }
+
+          plugin_skyline_year: current-year
+          plugin_stargazers: yes
+          plugin_stargazers_charts: yes
+          plugin_stargazers_charts_type: chartist
+          plugin_stargazers_days: 14
+          plugin_stargazers_worldmap: yes
+          repositories_forks: yes
