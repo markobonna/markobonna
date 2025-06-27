@@ -31,7 +31,7 @@
 
 
 ## 📊 GitHub Metrics
-![GitHub Metrics](/metrics.base.svg)
+![GitHub Metrics](/github-metrics.svg)
 
 
 
