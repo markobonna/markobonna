@@ -2,9 +2,13 @@
 ## 📊 GitHub Activity
 
 ### 🎯 Overview
-| Metrics | Organization |
-| ------- | ------------ |
-| ![Metrics](/metrics.base.svg) | ![Organization Metrics](/metrics.organization.svg) |
+| Metrics | 
+| ------- | 
+| ![Metrics](/metrics.base.svg) | 
+
+TIME
+![Organization Metrics](/metrics.organization.svg) |
+TIME
 
 ### 📅 Activity Calendar
 ![Calendar](/metrics.plugin.calendar.svg)
