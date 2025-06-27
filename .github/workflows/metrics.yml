@@ -11,8 +11,6 @@ jobs:
   github-metrics:
     name: GitHub Metrics
     runs-on: ubuntu-latest
-    environment: 
-      name: production
     permissions:
       contents: write
     
