@@ -45,24 +45,14 @@
 <a href="https://www.docker.com" target="_blank"><img align="left" alt="Docker" height ="42px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/docker/docker.svg"></a>
 <a href="https://kubernetes.io" target="_blank"><img align="left" alt="Kubernetes" height ="42px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/kubernetes/kubernetes.svg"></a>
 
-<br/>
-
-
-
-### 🔨 Languages and Tools
-
-| Core Languages | Frontend & Web |
-|---|---|
-| [![Python](https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/python/python.svg)](https://www.python.org) [![JavaScript](https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/javascript/javascript.svg)](https://developer.mozilla.org/en-US/docs/Web/JavaScript) [![TypeScript](https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/typescript/typescript.svg)](https://www.typescriptlang.org/) | [![React](https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/react/react.svg)](https://reactjs.org/) [![Vite](https://avatars.githubusercontent.com/u/65625612?s=200&v=4)](https://vite.dev/) [![Next.js](https://avatars.githubusercontent.com/u/14985020?s=200&v=4)](https://vercel.com/docs/) |
-| **Mobile** | **Backend & Infrastructure** |
-| [![iOS](https://raw.githubusercontent.com/markobonna/markobonna/main/assets/icons/apple.svg)](https://developer.apple.com) [![Create with Play](https://raw.githubusercontent.com/markobonna/markobonna/main/assets/icons/createwithplay.jpeg)](https://createwithplay.com) [![Android](https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/android/android.svg)](https://developer.android.com) | [![Node.js](https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/node/node.svg)](https://nodejs.org) [![AWS](https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/aws/aws.svg)](https://aws.amazon.com) [![Docker](https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/docker/docker.svg)](https://www.docker.com) [![Kubernetes](https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/kubernetes/kubernetes.svg)](https://kubernetes.io) |
-
-
 
 
 <br/>
 
 #### AI/ML Frameworks & Libraries:
+<a href="https://www.llama.com/" target="_blank"> 
+  <img align="left" alt="Llama" height="42px" src="https://avatars.githubusercontent.com/u/153379578?s=200&v=4"> 
+</a>
 <a href="https://pytorch.org/" target="_blank"> <img align="left" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/pytorch/pytorch.svg" alt="pytorch" height="42px"/> </a> 
 <a href="https://www.tensorflow.org" target="_blank"> <img align="left" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/tensorflow/tensorflow.svg" alt="tensorflow" height="42px"/> </a> 
 <a href="https://langchain.com/" target="_blank"> <img align="left" src="https://avatars.githubusercontent.com/u/126733545?s=200&v=4g" alt="langchain" height="42px"/> </a> 
@@ -71,9 +61,7 @@
 <a href="https://scikit-learn.org/" target="_blank"> <img align="left" src="https://avatars.githubusercontent.com/u/365630?s=200&v=4" alt="scikit-learn" height="42px"/> </a> 
 <a href="https://pandas.pydata.org/" target="_blank"> <img align="left" src="https://avatars.githubusercontent.com/u/21206976?s=200&v=4" alt="pandas" height="42px"/> </a> 
 <a href="https://numpy.org/" target="_blank"> <img align="left" src="https://avatars.githubusercontent.com/u/288276?s=200&v=4" alt="numpy" height="42px"/> </a> 
-<a href="https://www.llama.com/" target="_blank"> 
-  <img align="left" alt="Llama" height="42px" src="https://avatars.githubusercontent.com/u/153379578?s=200&v=4"> 
-</a>
+
 
 <br/>
 
@@ -106,7 +94,7 @@
 
 
 
-<br/>
+<br/><br/>
 
 
 
