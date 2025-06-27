@@ -10,15 +10,13 @@
 
 <!-- I am a versatilist and easily adapt to different hats (Full Stack Web Developer 🌐, App Developer 📱, ML Engineer 🤖 or beginner level Designer 🎨) depending on what the project requires. I love exploring new tech stack 💻 and leveraging them to build cool stuffs 🛠️. -->
 
-### 🔨 Languages and Tools:
-
 #### Core Languages:
 <a href="https://www.python.org" target="_blank"><img align="left" alt="Python" height ="42px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/python/python.svg"></a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img align="left" alt="JavaScript" height ="42px"  src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/javascript/javascript.svg"> </a>
 <a href="https://www.typescriptlang.org/" target="_blank"><img align="left" alt="Typescirpt" height ="42px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/typescript/typescript.svg"></a>
 
 
-<br/>
+<br/><br/>
 
 #### Mobile:
 <a href="https://developer.apple.com" target="_blank"> 
@@ -30,14 +28,14 @@
 <a href="https://developer.android.com" target="_blank"> <img align="left" alt="Android" height ="42px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/android/android.svg"> </a>
 
 
-<br/>
+<br/><br/>
 
 #### Frontend & Web:
 <a href="https://reactjs.org/" target="_blank"> <img align="left" alt="React" height ="42px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/react/react.svg"></a>
 <a href="https://vite.dev/" target="_blank"> <img align="left" alt="Vite" height ="42px" src="https://avatars.githubusercontent.com/u/65625612?s=200&v=4"></a>
 <a href="https://vercel.com/docs/" target="_blank"> <img align="left" alt="Next.js" height ="42px" src="https://avatars.githubusercontent.com/u/14985020?s=200&v=4"></a>
 
-<br/>
+<br/><br/>
 
 #### Backend & Infrastructure:
 <a href="https://nodejs.org" target="_blank"><img align="left" alt="Node.js" height ="42px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/node/node.svg"></a>
@@ -47,7 +45,7 @@
 
 
 
-<br/>
+<br/><br/>
 
 #### AI/ML Frameworks & Libraries:
 <a href="https://www.llama.com/" target="_blank"> 
@@ -63,7 +61,7 @@
 <a href="https://numpy.org/" target="_blank"> <img align="left" src="https://avatars.githubusercontent.com/u/288276?s=200&v=4" alt="numpy" height="42px"/> </a> 
 
 
-<br/>
+<br/><br/>
 
 #### AI Infrastructure & Data:
 <a href="https://www.pinecone.io/" target="_blank"> <img align="left" src="https://raw.githubusercontent.com/markobonna/markobonna/main/assets/icons/Pinecone-Primary-Logo-Black.svg" alt="pinecone" height="42px"/> </a> 
@@ -76,7 +74,7 @@
 <a href="https://wandb.ai/site" target="_blank"> <img align="left" src="https://site.wandb.ai/wp-content/uploads/2023/05/wb-cw.svg" alt="weights-biases" height="42px"/> </a> 
 <a href="https://lmstudio.ai" target="_blank"> <img align="left" src="https://avatars.githubusercontent.com/u/133744619?s=200&v=4" alt="lmstudio" height="42px"/> </a> 
 
-<br/>
+<br/><br/>
 
 #### AI Services and API:
 <a href="https://openai.com/" target="_blank"> <img align="left" src="https://avatars.githubusercontent.com/u/14957082?s=200&v=4" alt="openai" height="42px"/> </a> 
