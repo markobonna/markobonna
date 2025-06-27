@@ -11,7 +11,6 @@
 <!-- I am a versatilist and easily adapt to different hats (Full Stack Web Developer 🌐, App Developer 📱, ML Engineer 🤖 or beginner level Designer 🎨) depending on what the project requires. I love exploring new tech stack 💻 and leveraging them to build cool stuffs 🛠️. -->
 
 ### 🔨 Languages and Tools:
-<br/>
 
 #### Core Languages:
 <a href="https://www.python.org" target="_blank"><img align="left" alt="Python" height ="42px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/python/python.svg"></a>
@@ -22,8 +21,8 @@
 
 #### Frontend & Web:
 <a href="https://reactjs.org/" target="_blank"> <img align="left" alt="React" height ="42px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/react/react.svg"></a>
-<a href="https://vite.dev/" target="_blank"> <img align="left" alt="Vite" height ="42px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/vite/vite.svg"></a>
-<a href="https://nextjs.org/" target="_blank"> <img align="left" alt="Next.js" height ="42px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/nextjs/nextjs.svg"></a>
+<a href="https://vite.dev/" target="_blank"> <img align="left" alt="Vite" height ="42px" src="https://avatars.githubusercontent.com/u/65625612?s=200&v=4"></a>
+<a href="https://vercel.com/docs/" target="_blank"> <img align="left" alt="Next.js" height ="42px" src="https://avatars.githubusercontent.com/u/14985020?s=200&v=4"></a>
 
 <br/>
 
@@ -38,7 +37,7 @@
 #### AI/ML Frameworks & Libraries:
 <a href="https://pytorch.org/" target="_blank"> <img align="left" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/pytorch/pytorch.svg" alt="pytorch" height="42px"/> </a> 
 <a href="https://www.tensorflow.org" target="_blank"> <img align="left" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/tensorflow/tensorflow.svg" alt="tensorflow" height="42px"/> </a> 
-<a href="https://langchain.com/" target="_blank"> <img align="left" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/langchain/langchain.svg" alt="langchain" height="42px"/> </a> 
+<a href="https://langchain.com/" target="_blank"> <img align="left" src="https://avatars.githubusercontent.com/u/126733545?s=200&v=4g" alt="langchain" height="42px"/> </a> 
 <a href="https://www.llamaindex.ai/" target="_blank"> <img align="left" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/llama-index/llama-index.svg" alt="llama-index" height="42px"/> </a> 
 <a href="https://huggingface.co/" target="_blank"> <img align="left" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/hugging-face-transformers/hugging-face-transformers.svg" alt="hugging-face-transformers" height="42px"/> </a> 
 <a href="https://scikit-learn.org/" target="_blank"> <img align="left" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/scikit-learn/scikit-learn.svg" alt="scikit-learn" height="42px"/> </a> 
