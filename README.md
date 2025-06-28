@@ -40,14 +40,25 @@ Welcome to my GitHub profile where I create to amaze with code!
 
 <table>
   <tr>
-    <th align="center">📊 My GitHub Metrics</th>
-    <th align="center">🈷️ Languages I Use</th>
-  </tr>
-    <tr>
     <th colspan="2" align="center">
       <h3>🛠️ Technologies2 & Tools</h3>
     </th>
+    <tr>
+    <th align="center">thing 1</th>
+    <td align="center" colspan="2">
+      <img src="https://skillicons.dev/icons?i=js,typescript,python,react,nodejs" />
+    </td>
+    <th align="center">thing 2</th>
+    <td align="center" colspan="2">
+      <img src="https://skillicons.dev/icons?i=docker,git,github,vscode,linux" />
+    </td>
+    </tr>
   </tr>
+  <tr>
+    <th align="center">📊 My GitHub Metrics</th>
+    <th align="center">🈷️ Languages I Use</th>
+  </tr>
+ 
   <tr>
     <td align="center" colspan="2">
       <img src="https://skillicons.dev/icons?i=js,typescript,python,react,nodejs,docker,git,github,vscode,linux" />
