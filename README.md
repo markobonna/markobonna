@@ -151,13 +151,13 @@ Welcome to my GitHub profile where I create to amaze with code!
     </th>
   </tr>
   <tr>
-    <th>💡 Activity</th>
-    <th>📌 Habits<</th>
+    <th>📅 Isometric commit calendar</th>
+    <th>📌 Habits</th>
   </tr>
   <tr>
     <td align="center">
-      <details open><summary>My coding patterns and activity</summary>
-        <img alt="" width="400" src="metrics.activity.svg" alt="Activity"></img>
+      <details open><summary>Isometric commit calendar</summary>
+        <img alt="" width="400" src="metrics.isocalendar.svg" alt="IsoCalendar"></img>
       </details>
       <img width="900" height="1" alt="">
     </td>
@@ -167,25 +167,6 @@ Welcome to my GitHub profile where I create to amaze with code!
       </details>
       <img width="900" height="1" alt="">
     </td>
-  </tr>
-  <tr>
-    <th>📅 Commit Calendar</th>
-    <th>📅 Isometric commit calendar</th>
-  </tr>
-  <tr>
-    <td align="center">
-      <details open><summary>My contribution timeline</summary>
-        <img alt="" width="400" src="metrics.calendar.svg" alt="Calendar"></img>
-      </details>
-      <img width="900" height="1" alt="">
-    </td>
-    <td align="center">
-      <details open><summary>Isometric commit calendar</summary>
-        <img alt="" width="400" src="metrics.isocalendar.svg" alt="IsoCalendar"></img>
-      </details>
-      <img width="900" height="1" alt="">
-    </td>
-    
   </tr>
   <tr>
     <th>👨‍💻 Lines of Code</th>

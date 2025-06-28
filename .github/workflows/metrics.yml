@@ -27,7 +27,6 @@ jobs:
           plugin_lines_repositories_limit: 900
           plugin_lines_sections: base
           plugin_traffic: yes
-          plugin_support: yes
           repositories_forks: yes
 
   # Lines of code changed
