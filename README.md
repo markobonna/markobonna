@@ -82,7 +82,7 @@ Welcome to my GitHub profile where I create to amaze with code!
     <th align="center">AI/ML Frameworks & Libraries</th>
     </tr>
 
-<td align="center" colspan="1">
+<td align="center" colspan="2">
 <a href="https://www.llama.com/" target="_blank"> 
   <img align="left" alt="Llama" height="42px" src="https://avatars.githubusercontent.com/u/153379578?s=200&v=4"> 
 </a>
@@ -100,7 +100,7 @@ Welcome to my GitHub profile where I create to amaze with code!
     <th align="center">AI Infrastructure & Data</th>
     </tr>
 
-<td align="center" colspan="1">
+<td align="center" colspan="2">
 
 <a href="https://www.pinecone.io/" target="_blank"> <img align="left" src="https://raw.githubusercontent.com/markobonna/markobonna/main/assets/icons/Pinecone-Primary-Logo-Black.svg" alt="pinecone" height="42px"/> </a>
 <a href="https://weaviate.io/" target="_blank"> <img align="left" src="https://avatars.githubusercontent.com/u/37794290?s=200&v=4" alt="weaviate" height="42px"/> </a>
@@ -118,7 +118,7 @@ Welcome to my GitHub profile where I create to amaze with code!
 <th align="center">AI Services and API</th>
 </tr>
 
-<td align="center" colspan="1">
+<td align="center" colspan="2">
 
 <a href="https://openai.com/" target="_blank"> <img align="left" src="https://avatars.githubusercontent.com/u/14957082?s=200&v=4" alt="openai" height="42px"/> </a>
 <a href="https://anthropic.com" target="_blank"> <img align="left" src="https://avatars.githubusercontent.com/u/76263028?s=200&v=4" alt="anthropic" height="42px"/> </a>
