@@ -151,8 +151,8 @@ Welcome to my GitHub profile where I create to amaze with code!
     </th>
   </tr>
   <tr>
-    <th>💡 Coding Habits & Activity</th>
-    <th>🏆 GitHub Achievements</th>
+    <th>💡 Activity</th>
+    <th>📌 Habits<</th>
   </tr>
   <tr>
     <td align="center">
@@ -162,15 +162,15 @@ Welcome to my GitHub profile where I create to amaze with code!
       <img width="900" height="1" alt="">
     </td>
     <td align="center">
-      <details open><summary>Achievements and milestones</summary>
-        <img alt="" width="400" src="metrics.achievements.svg" alt="Achievements"></img>
+      <details open><summary>Habits</summary>
+        <img alt="" width="400" src="metrics.habits.svg" alt="Habits"></img>
       </details>
       <img width="900" height="1" alt="">
     </td>
   </tr>
   <tr>
     <th>📅 Commit Calendar</th>
-    <th>🌟 Stargazers</th>
+    <th>📅 Isometric commit calendar</th>
   </tr>
   <tr>
     <td align="center">
@@ -180,11 +180,12 @@ Welcome to my GitHub profile where I create to amaze with code!
       <img width="900" height="1" alt="">
     </td>
     <td align="center">
-      <details open><summary>Stargazers</summary>
-        <img alt="" width="400" src="metrics.stargazers.svg" alt="Stargazers"></img>
+      <details open><summary>Isometric commit calendar</summary>
+        <img alt="" width="400" src="metrics.isocalendar.svg" alt="IsoCalendar"></img>
       </details>
       <img width="900" height="1" alt="">
     </td>
+    
   </tr>
   <tr>
     <th>👨‍💻 Lines of Code</th>
@@ -224,7 +225,7 @@ Welcome to my GitHub profile where I create to amaze with code!
   </tr>
   <tr>
     <th>🎭 Reactions</th>
-    <th>📅 Isometric commit calendar</th>
+    <th>🌟 Stargazers</th>
   </tr>
   <tr>
     <td align="center">
@@ -234,8 +235,26 @@ Welcome to my GitHub profile where I create to amaze with code!
       <img width="900" height="1" alt="">
     </td>
     <td align="center">
-      <details open><summary>Isometric commit calendar</summary>
-        <img alt="" width="400" src="metrics.isocalendar.svg" alt="IsoCalendar"></img>
+      <details open><summary>Stargazers</summary>
+        <img alt="" width="400" src="metrics.stargazers.svg" alt="Stargazers"></img>
+      </details>
+      <img width="900" height="1" alt="">
+    </td>
+  </tr>
+  <tr>
+    <th>🏆 GitHub Achievements</th>
+    <th>🌟 Stargazers</th>
+  </tr>
+  <tr>
+    <td align="center">
+      <details open><summary>Achievements and milestones</summary>
+        <img alt="" width="400" src="metrics.achievements.svg" alt="Achievements"></img>
+      </details>
+      <img width="900" height="1" alt="">
+    </td>
+    <td align="center">
+      <details open><summary>Stargazers</summary>
+        <img alt="" width="400" src="metrics.stargazers.svg" alt="Stargazers"></img>
       </details>
       <img width="900" height="1" alt="">
     </td>
