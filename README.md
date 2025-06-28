@@ -38,13 +38,14 @@ Welcome to my GitHub profile where I create to amaze with code!
 
 <table>
   <tr>
-    <th colspan="2" align="center">
+    <th colspan="3" align="center">
       <h3>🛠️ Technologies & Tools</h3>
     </th>
     </tr>
     <tr>
     <th align="center">Core Languages</th>
     <th align="center">Mobile</th>
+    <th align="center">Frontend & Web</th>
     </tr>
     <tr>
     <td align="center" colspan="1">
@@ -53,7 +54,18 @@ Welcome to my GitHub profile where I create to amaze with code!
 <a href="https://www.typescriptlang.org/" target="_blank"><img align="left" alt="Typescirpt" height ="42px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/typescript/typescript.svg"></a>
     </td>
     <td align="center" colspan="1">
-      <img src="https://skillicons.dev/icons?i=docker,git,github,vscode,linux" />
+      <a href="https://developer.apple.com" target="_blank"> 
+  <img align="left" alt="iOS" height="42px" src="https://raw.githubusercontent.com/markobonna/markobonna/main/assets/icons/apple.svg"> 
+</a>
+<a href="https://createwithplay.com" target="_blank"> 
+  <img align="left" alt="Create with Play" height="42px" src="https://raw.githubusercontent.com/markobonna/markobonna/main/assets/icons/createwithplay.jpeg"> 
+</a>
+<a href="https://developer.android.com" target="_blank"> <img align="left" alt="Android" height ="42px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/android/android.svg"> </a>
+    </td>
+        <td align="center" colspan="1">
+      <a href="https://reactjs.org/" target="_blank"> <img align="left" alt="React" height ="42px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/react/react.svg"></a>
+<a href="https://vite.dev/" target="_blank"> <img align="left" alt="Vite" height ="42px" src="https://avatars.githubusercontent.com/u/65625612?s=200&v=4"></a>
+<a href="https://vercel.com/docs/" target="_blank"> <img align="left" alt="Next.js" height ="42px" src="https://avatars.githubusercontent.com/u/14985020?s=200&v=4"></a>
     </td>
     </tr>
 
@@ -231,31 +243,11 @@ Welcome to my GitHub profile where I create to amaze with code!
   <sub>Built with ❤️ using <a href="https://github.com/lowlighter/metrics">GitHub Metrics</a></sub>
 </div>
 
-#### Core Languages:
-
-<a href="https://www.python.org" target="_blank"><img align="left" alt="Python" height ="42px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/python/python.svg"></a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img align="left" alt="JavaScript" height ="42px"  src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/javascript/javascript.svg"> </a>
-<a href="https://www.typescriptlang.org/" target="_blank"><img align="left" alt="Typescirpt" height ="42px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/typescript/typescript.svg"></a>
-
 <br/><br/>
-
-#### Mobile:
-
-<a href="https://developer.apple.com" target="_blank"> 
-  <img align="left" alt="iOS" height="42px" src="https://raw.githubusercontent.com/markobonna/markobonna/main/assets/icons/apple.svg"> 
-</a>
-<a href="https://createwithplay.com" target="_blank"> 
-  <img align="left" alt="Create with Play" height="42px" src="https://raw.githubusercontent.com/markobonna/markobonna/main/assets/icons/createwithplay.jpeg"> 
-</a>
-<a href="https://developer.android.com" target="_blank"> <img align="left" alt="Android" height ="42px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/android/android.svg"> </a>
 
 <br/><br/>
 
 #### Frontend & Web:
-
-<a href="https://reactjs.org/" target="_blank"> <img align="left" alt="React" height ="42px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/react/react.svg"></a>
-<a href="https://vite.dev/" target="_blank"> <img align="left" alt="Vite" height ="42px" src="https://avatars.githubusercontent.com/u/65625612?s=200&v=4"></a>
-<a href="https://vercel.com/docs/" target="_blank"> <img align="left" alt="Next.js" height ="42px" src="https://avatars.githubusercontent.com/u/14985020?s=200&v=4"></a>
 
 <br/><br/>
 
