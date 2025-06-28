@@ -144,6 +144,7 @@
 
 # 📊 Metrics 
 
+start of this table 
 <table>
   <tr>
     <th align="center">For user accounts</th>
@@ -445,7 +446,7 @@
   </tr>
   
 
-
+end of this table 
 ---
 # Your Profile
 
