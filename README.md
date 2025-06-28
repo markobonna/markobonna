@@ -39,7 +39,7 @@ Welcome to my GitHub profile where I create to amaze with code!
 <table>
   <tr>
     <th colspan="2" align="center">
-      <h3>🛠️ Technologies & Tools</h3>
+      <h2>🛠️ My Technologies & Tools</h2>
     </th>
     </tr>
     <tr>
@@ -130,7 +130,7 @@ Welcome to my GitHub profile where I create to amaze with code!
 
   </tr>
   <tr> <th colspan="2" align="center">
-      <h3> 🏃 Activity</h3>
+      <h2> 🏃 My Activity</h2>
     </th></tr>
   <tr>
     <th align="center">📊 My GitHub Metrics</th>
@@ -170,7 +170,7 @@ Welcome to my GitHub profile where I create to amaze with code!
   </tr>
   <tr>
     <th>📅 Commit Calendar</th>
-    <th>🌟 Recent Stars</th>
+    <th>🌟 Stargazers</th>
   </tr>
   <tr>
     <td align="center">
@@ -180,15 +180,15 @@ Welcome to my GitHub profile where I create to amaze with code!
       <img width="900" height="1" alt="">
     </td>
     <td align="center">
-      <details open><summary>Repositories I've starred recently</summary>
-        <img alt="" width="400" src="metrics.stars.svg" alt="Stars"></img>
+      <details open><summary>Stargazers</summary>
+        <img alt="" width="400" src="metrics.stargazers.svg" alt="Stargazers"></img>
       </details>
       <img width="900" height="1" alt="">
     </td>
   </tr>
   <tr>
     <th>👨‍💻 Lines of Code</th>
-    <th>📌 My Interests</th>
+    <th>📌 Habits</th>
   </tr>
   <tr>
     <td align="center">
@@ -198,15 +198,15 @@ Welcome to my GitHub profile where I create to amaze with code!
       <img width="900" height="1" alt="">
     </td>
     <td align="center">
-      <details open><summary>Topics I'm interested in</summary>
-        <img alt="" width="400" src="metrics.topics.svg" alt="Topics"></img>
+      <details open><summary>Habits</summary>
+        <img alt="" width="400" src="metrics.habits.svg" alt="Habits"></img>
       </details>
       <img width="900" height="1" alt="">
     </td>
   </tr>
   <tr>
     <th>🎟️ Issues & Pull Requests</th>
-    <th>🎫 My Gists</th>
+    <th>🎫 Following</th>
   </tr>
   <tr>
     <td align="center">
@@ -216,22 +216,31 @@ Welcome to my GitHub profile where I create to amaze with code!
       <img width="900" height="1" alt="">
     </td>
     <td align="center">
-      <details open><summary>Code snippets and examples</summary>
-        <img alt="" width="400" src="metrics.gists.svg" alt="Gists"></img>
+      <details open><summary>People I follow and follow me</summary>
+        <img alt="" width="400" src="metrics.people.svg" alt="People"></img>
       </details>
       <img width="900" height="1" alt="">
     </td>
   </tr>
   <tr>
-    <th colspan="2" align="center">
-      <h3>🛠️ Technologies3 & Tools</h3>
-    </th>
+    <th>🎭 Reactions</th>
+    <th>📅 Isometric commit calendar</th>
   </tr>
   <tr>
-    <td align="center" colspan="2">
-      <img src="https://skillicons.dev/icons?i=js,typescript,python,react,nodejs,docker,git,github,vscode,linux" />
+    <td align="center">
+      <details open><summary>Reactions</summary>
+        <img alt="" width="400" src="metrics.reactions.svg" alt="Reactions"></img>
+      </details>
+      <img width="900" height="1" alt="">
+    </td>
+    <td align="center">
+      <details open><summary>Isometric commit calendar</summary>
+        <img alt="" width="400" src="metrics.isocalendar.svg" alt="IsoCalendar"></img>
+      </details>
+      <img width="900" height="1" alt="">
     </td>
   </tr>
+  
   <tr>
     <th colspan="2" align="center">
       <h3>📈 GitHub Stats</h3>
@@ -239,10 +248,10 @@ Welcome to my GitHub profile where I create to amaze with code!
   </tr>
   <tr>
     <td align="center">
-      <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical" alt="GitHub Stats" />
+      <img src="https://github-readme-stats.vercel.app/api?username=markobonna&show_icons=true&theme=radical" alt="GitHub Stats" />
     </td>
     <td align="center">
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=radical" alt="GitHub Streak" />
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=markobonna&theme=radical" alt="GitHub Streak" />
     </td>
   </tr>
   <tr>
@@ -252,45 +261,18 @@ Welcome to my GitHub profile where I create to amaze with code!
   </tr>
   <tr>
     <td align="center" colspan="2">
-      <a href="https://linkedin.com/in/YOUR_LINKEDIN">
+      <a href="https://linkedin.com/in/markofleming">
         <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
       </a>
-      <a href="https://twitter.com/YOUR_TWITTER">
+      <a href="https://twitter.com/markobonna">
         <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/>
       </a>
-      <a href="mailto:YOUR_EMAIL">
+      <a href="mailto:contact@markobonna.com">
         <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
       </a>
-      <a href="https://YOUR_WEBSITE">
+      <a href="https://www.markobonna.com">
         <img src="https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="Website"/>
       </a>
-    </td>
-  </tr>
-  <tr>
-    <td align="center" colspan="2">
-      <h3>💬 About Me</h3>
-      <p>
-        🔭 I'm currently working on: <strong>[Your current project]</strong><br>
-        🌱 I'm currently learning: <strong>[What you're learning]</strong><br>
-        👯 I'm looking to collaborate on: <strong>[What you want to collaborate on]</strong><br>
-        🤔 I'm looking for help with: <strong>[What you need help with]</strong><br>
-        💬 Ask me about: <strong>[Your expertise areas]</strong><br>
-        📫 How to reach me: <strong>[Your preferred contact method]</strong><br>
-        😄 Pronouns: <strong>[Your pronouns]</strong><br>
-        ⚡ Fun fact: <strong>[Something interesting about you]</strong>
-      </p>
-    </td>
-  </tr>
-  <tr>
-    <td align="center" colspan="2">
-      <h3>🎯 2025 Goals</h3>
-      <ul align="left">
-        <li>🚀 Launch [Your project goal]</li>
-        <li>📚 Learn [New technology/skill]</li>
-        <li>🤝 Contribute to [Number] open source projects</li>
-        <li>📝 Write [Number] technical blog posts</li>
-        <li>🎤 Speak at [Number] conferences/meetups</li>
-      </ul>
     </td>
   </tr>
 </table>
@@ -298,348 +280,9 @@ Welcome to my GitHub profile where I create to amaze with code!
 ---
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&color=blueviolet&style=flat-square&label=Profile+Views" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=markobonna&color=blueviolet&style=flat-square&label=Profile+Views" alt="Profile Views" />
 </div>
 
 <div align="center">
   <sub>Built with ❤️ using <a href="https://github.com/lowlighter/metrics">GitHub Metrics</a></sub>
 </div>
-
-<br/><br/>
-
-<br/><br/>
-
-#### Frontend & Web:
-
-<br/><br/>
-
-#### Backend & Infrastructure:
-
-<br/><br/>
-
-<br/><br/>
-
-<!-- GitHub Metrics -->
-
-<br/>
-
-## 📊 GitHub Metrics
-
-![GitHub Metrics](/github-metrics.svg)
-
----
-
----
-
-# 📊 Metrics
-
-<table>
-  <tr>
-    <th colspan="2" align="center">
-      <h3>🛠️ Technologies1 & Tools</h3>
-    </th>
-  </tr>
-  <tr>
-    <td align="center" colspan="2">
-      <img src="https://skillicons.dev/icons?i=js,typescript,python,react,nodejs,docker,git,github,vscode,linux" />
-    </td>
-    <tr>
-  </tr>
-  <tr>
-    <th align="center">For user accounts</th>
-    <th align="center">For organization accounts</th>
-  </tr>
-  <tr>
-    <td align="center">
-<img alt="" width="400" src="https://github.com/lowlighter/metrics/blob/examples/metrics.classic.svg" alt=""></img>
-</td>
-<td align="center">
-<img alt="" width="400" src="https://github.com/lowlighter/metrics/blob/examples/metrics.organization.svg" alt=""></img>
-</td>
-  </tr>
-  <tr>
-    <th colspan="2" align="center">
-      <h3><a href="/README.md#-plugins">🧩 Customizable with 47 plugins and 335 options!</a></h3>
-    </th>
-  </tr>
-  <tr>
-    <th><a href="source/plugins/isocalendar/README.md">📅 Isometric commit calendar</a></th>
-    <th><a href="source/plugins/languages/README.md">🈷️ Languages activity</a></th>
-  </tr>
-  <tr>
-        <td  align="center">
-        <details open><summary>Full year calendar</summary><img alt="" width="400" src="https://github.com/lowlighter/metrics/blob/examples/metrics.plugin.isocalendar.fullyear.svg" alt=""></img></details>
-        <details><summary>Half year calendar</summary><img alt="" width="400" src="https://github.com/lowlighter/metrics/blob/examples/metrics.plugin.isocalendar.svg" alt=""></img></details>
-        <img width="900" height="1" alt="">
-      </td>
-        <td  align="center">
-        <details open><summary>Indepth analysis (clone and analyze repositories)</summary><img alt="" width="400" src="https://github.com/lowlighter/metrics/blob/examples/metrics.plugin.languages.indepth.svg" alt=""></img></details>
-        <details open><summary>Recently used (analyze recent activity events)</summary><img alt="" width="400" src="https://github.com/lowlighter/metrics/blob/examples/metrics.plugin.languages.recent.svg" alt=""></img></details>
-        <details><summary>Default algorithm</summary><img alt="" width="400" src="https://github.com/lowlighter/metrics/blob/examples/metrics.plugin.languages.svg" alt=""></img></details>
-        <details><summary>Default algorithm (with details)</summary><img alt="" width="400" src="https://github.com/lowlighter/metrics/blob/examples/metrics.plugin.languages.details.svg" alt=""></img></details>
-        <img width="900" height="1" alt="">
-      </td>
-  </tr>
-  <tr>
-    <th><a href="source/plugins/stargazers/README.md">✨ Stargazers</a></th>
-    <th><a href="source/plugins/lines/README.md">👨‍💻 Lines of code changed</a></th>
-  </tr>
-  <tr>
-        <td  align="center">
-        <details open><summary>Classic charts</summary><img alt="" width="400" src="https://github.com/lowlighter/metrics/blob/examples/metrics.plugin.stargazers.svg" alt=""></img></details>
-        <details><summary>Graph charts</summary><img alt="" width="400" src="https://github.com/lowlighter/metrics/blob/examples/metrics.plugin.stargazers.graph.svg" alt=""></img></details>
-        <details open><summary>Worldmap</summary><img alt="" width="400" src="https://github.com/lowlighter/metrics/blob/examples/metrics.plugin.stargazers.worldmap.svg" alt=""></img></details>
-        <img width="900" height="1" alt="">
-      </td>
-        <td  align="center">
-        <details open><summary>Repositories and diff history</summary><img alt="" width="400" src="https://github.com/lowlighter/metrics/blob/examples/metrics.plugin.lines.history.svg" alt=""></img></details>
-        <details><summary>Compact display in base plugin</summary><img alt="" width="400" src="https://github.com/lowlighter/metrics/blob/examples/metrics.plugin.lines.svg" alt=""></img></details>
-        <img width="900" height="1" alt="">
-      </td>
-  </tr>
-  <tr>
-    <th><a href="source/plugins/topics/README.md">📌 Starred topics</a></th>
-    <th><a href="source/plugins/stars/README.md">🌟 Recently starred repositories</a></th>
-  </tr>
-  <tr>
-        <td  align="center">
-        <details open><summary>With icons</summary><img alt="" width="400" src="https://github.com/lowlighter/metrics/blob/examples/metrics.plugin.topics.icons.svg" alt=""></img></details>
-        <details open><summary>With labels</summary><img alt="" width="400" src="https://github.com/lowlighter/metrics/blob/examples/metrics.plugin.topics.svg" alt=""></img></details>
-        <img width="900" height="1" alt="">
-      </td>
-        <td  align="center">
-        <img alt="" width="400" src="https://github.com/lowlighter/metrics/blob/examples/metrics.plugin.stars.svg" alt=""></img>
-        <img width="900" height="1" alt="">
-      </td>
-  </tr>
-  <tr>
-    <th><a href="source/plugins/licenses/README.md">📜 Repository licenses</a></th>
-    <th><a href="source/plugins/habits/README.md">💡 Coding habits and activity</a></th>
-  </tr>
-  <tr>
-        <td  align="center">
-        <details open><summary>Permissions, limitations and conditions</summary><img alt="" width="400" src="https://github.com/lowlighter/metrics/blob/examples/metrics.plugin.licenses.svg" alt=""></img></details>
-        <details open><summary>Licenses overview</summary><img alt="" width="400" src="https://github.com/lowlighter/metrics/blob/examples/metrics.plugin.licenses.ratio.svg" alt=""></img></details>
-        <img width="900" height="1" alt="">
-      </td>
-        <td  align="center">
-        <details open><summary>Recent activity charts</summary><img alt="" width="400" src="https://github.com/lowlighter/metrics/blob/examples/metrics.plugin.habits.charts.svg" alt=""></img></details>
-        <details open><summary>Mildly interesting facts</summary><img alt="" width="400" src="https://github.com/lowlighter/metrics/blob/examples/metrics.plugin.habits.facts.svg" alt=""></img></details>
-        <img width="900" height="1" alt="">
-      </td>
-  </tr>
-  <tr>
-    <th><a href="source/plugins/contributors/README.md">🏅 Repository contributors</a></th>
-    <th><a href="source/plugins/followup/README.md">🎟️ Follow-up of issues and pull requests</a></th>
-  </tr>
-  <tr>
-        <td  align="center">
-        <details open><summary>By contribution types</summary><img alt="" width="400" src="https://github.com/lowlighter/metrics/blob/examples/metrics.plugin.contributors.categories.svg" alt=""></img></details>
-        <details><summary>By number of contributions</summary><img alt="" width="400" src="https://github.com/lowlighter/metrics/blob/examples/metrics.plugin.contributors.contributions.svg" alt=""></img></details>
-        <img width="900" height="1" alt="">
-      </td>
-        <td  align="center">
-        <details open><summary>Indepth analysis</summary><img alt="" width="400" src="https://github.com/lowlighter/metrics/blob/examples/metrics.plugin.followup.indepth.svg" alt=""></img></details>
-        <details><summary>Created on a user's repositories</summary><img alt="" width="400" src="https://github.com/lowlighter/metrics/blob/examples/metrics.plugin.followup.svg" alt=""></img></details>
-        <details><summary>Created by a user</summary><img alt="" width="400" src="https://github.com/lowlighter/metrics/blob/examples/metrics.plugin.followup.user.svg" alt=""></img></details>
-        <img width="900" height="1" alt="">
-      </td>
-  </tr>
-  <tr>
-    <th><a href="source/plugins/reactions/README.md">🎭 Comment reactions</a></th>
-    <th><a href="source/plugins/people/README.md">🧑‍🤝‍🧑 People</a></th>
-  </tr>
-  <tr>
-        <td  align="center">
-        <img alt="" width="400" src="https://github.com/lowlighter/metrics/blob/examples/metrics.plugin.reactions.svg" alt=""></img>
-        <img width="900" height="1" alt="">
-      </td>
-        <td  align="center">
-        <details open><summary>Related to a user</summary><img alt="" width="400" src="https://github.com/lowlighter/metrics/blob/examples/metrics.plugin.people.followers.svg" alt=""></img></details>
-        <details><summary>Related to a repository</summary><img alt="" width="400" src="https://github.com/lowlighter/metrics/blob/examples/metrics.plugin.people.repository.svg" alt=""></img></details>
-        <img width="900" height="1" alt="">
-      </td>
-  </tr>
-  <tr>
-    <th><a href="source/plugins/sponsorships/README.md">💝 GitHub Sponsorships</a></th>
-    <th><a href="source/plugins/sponsors/README.md">💕 GitHub Sponsors</a></th>
-  </tr>
-  <tr>
-        <td  align="center">
-        <img alt="" width="400" src="https://github.com/lowlighter/metrics/blob/examples/metrics.plugin.sponsorships.svg" alt=""></img>
-        <img width="900" height="1" alt="">
-      </td>
-        <td  align="center">
-        <details open><summary>GitHub sponsors card</summary><img alt="" width="400" src="https://github.com/lowlighter/metrics/blob/examples/metrics.plugin.sponsors.svg" alt=""></img></details>
-        <details><summary>GitHub sponsors full introduction</summary><img alt="" width="400" src="https://github.com/lowlighter/metrics/blob/examples/metrics.plugin.sponsors.full.svg" alt=""></img></details>
-        <img width="900" height="1" alt="">
-      </td>
-  </tr>
-  <tr>
-    <th><a href="source/plugins/repositories/README.md">📓 Featured repositories</a></th>
-    <th><a href="source/plugins/discussions/README.md">💬 Discussions</a></th>
-  </tr>
-  <tr>
-        <td  align="center">
-        <details open><summary>Featured</summary><img alt="" width="400" src="https://github.com/lowlighter/metrics/blob/examples/metrics.plugin.repositories.svg" alt=""></img></details>
-        <details><summary>Pinned</summary><img alt="" width="400" src="https://github.com/lowlighter/metrics/blob/examples/metrics.plugin.repositories.pinned.svg" alt=""></img></details>
-        <img width="900" height="1" alt="">
-      </td>
-        <td  align="center">
-        <img alt="" width="400" src="https://github.com/lowlighter/metrics/blob/examples/metrics.plugin.discussions.svg" alt=""></img>
-        <img width="900" height="1" alt="">
-      </td>
-  </tr>
-  <tr>
-    <th><a href="source/plugins/starlists/README.md">💫 Star lists</a></th>
-    <th><a href="source/plugins/calendar/README.md">📆 Commit calendar</a></th>
-  </tr>
-  <tr>
-        <td  align="center">
-        <details open><summary>Repositories from star lists</summary><img alt="" width="400" src="https://github.com/lowlighter/metrics/blob/examples/metrics.plugin.starlists.svg" alt=""></img></details>
-        <details open><summary>Languages from star lists</summary><img alt="" width="400" src="https://github.com/lowlighter/metrics/blob/examples/metrics.plugin.starlists.languages.svg" alt=""></img></details>
-        <img width="900" height="1" alt="">
-      </td>
-        <td  align="center">
-        <details><summary>Current year</summary><img alt="" width="400" src="https://github.com/lowlighter/metrics/blob/examples/metrics.plugin.calendar.svg" alt=""></img></details>
-        <details open><summary>Full history</summary><img alt="" width="400" src="https://github.com/lowlighter/metrics/blob/examples/metrics.plugin.calendar.full.svg" alt=""></img></details>
-        <img width="900" height="1" alt="">
-      </td>
-  </tr>
-  <tr>
-    <th><a href="source/plugins/achievements/README.md">🏆 Achievements</a></th>
-    <th><a href="source/plugins/notable/README.md">🎩 Notable contributions</a></th>
-  </tr>
-  <tr>
-        <td  align="center">
-        <details open><summary>Compact display</summary><img alt="" width="400" src="https://github.com/lowlighter/metrics/blob/examples/metrics.plugin.achievements.compact.svg" alt=""></img></details>
-        <details><summary>Detailed display</summary><img alt="" width="400" src="https://github.com/lowlighter/metrics/blob/examples/metrics.plugin.achievements.svg" alt=""></img></details>
-        <img width="900" height="1" alt="">
-      </td>
-        <td  align="center">
-        <details open><summary>Indepth analysis</summary><img alt="" width="400" src="https://github.com/lowlighter/metrics/blob/examples/metrics.plugin.notable.indepth.svg" alt=""></img></details>
-        <details><summary>Contributions in organizations only</summary><img alt="" width="400" src="https://github.com/lowlighter/metrics/blob/examples/metrics.plugin.notable.svg" alt=""></img></details>
-        <img width="900" height="1" alt="">
-      </td>
-  </tr>
-  <tr>
-    <th><a href="source/plugins/activity/README.md">📰 Recent activity</a></th>
-    <th><a href="source/plugins/traffic/README.md">🧮 Repositories traffic</a></th>
-  </tr>
-  <tr>
-        <td  align="center">
-        <img alt="" width="400" src="https://github.com/lowlighter/metrics/blob/examples/metrics.plugin.activity.svg" alt=""></img>
-        <img width="900" height="1" alt="">
-      </td>
-        <td  align="center">
-        <img alt="" width="400" src="https://github.com/lowlighter/metrics/blob/examples/metrics.plugin.traffic.svg" alt=""></img>
-        <img width="900" height="1" alt="">
-      </td>
-  </tr>
-  <tr>
-    <th><a href="source/plugins/code/README.md">♐ Random code snippet</a></th>
-    <th><a href="source/plugins/gists/README.md">🎫 Gists</a></th>
-  </tr>
-  <tr>
-        <td  align="center">
-        <img alt="" width="400" src="https://github.com/lowlighter/metrics/blob/examples/metrics.plugin.code.svg" alt=""></img>
-        <img width="900" height="1" alt="">
-      </td>
-        <td  align="center">
-        <img alt="" width="400" src="https://github.com/lowlighter/metrics/blob/examples/metrics.plugin.gists.svg" alt=""></img>
-        <img width="900" height="1" alt="">
-      </td>
-  </tr>
-  <tr>
-    <th><a href="source/plugins/projects/README.md">🗂️ GitHub projects</a></th>
-    <th><a href="source/plugins/introduction/README.md">🙋 Introduction</a></th>
-  </tr>
-  <tr>
-        <td  align="center">
-        <img alt="" width="400" src="https://github.com/lowlighter/metrics/blob/examples/metrics.plugin.projects.svg" alt=""></img>
-        <img width="900" height="1" alt="">
-      </td>
-        <td  align="center">
-        <details open><summary>For a user or an organization</summary><img alt="" width="400" src="https://github.com/lowlighter/metrics/blob/examples/metrics.plugin.introduction.svg" alt=""></img></details>
-        <details><summary>For a repository</summary><img alt="" width="400" src="https://github.com/lowlighter/metrics/blob/examples/metrics.plugin.introduction.repository.svg" alt=""></img></details>
-        <img width="900" height="1" alt="">
-      </td>
-  </tr>
-  <tr>
-    <th><a href="source/plugins/skyline/README.md">🌇 GitHub Skyline</a></th>
-    <th><a href="source/plugins/pagespeed/README.md">⏱️ Google PageSpeed</a></th>
-  </tr>
-  <tr>
-        <td  align="center">
-        <details open><summary>GitHub Skyline</summary><img alt="" width="400" src="https://github.com/lowlighter/metrics/blob/examples/metrics.plugin.skyline.svg" alt=""></img></details>
-        <details><summary>GitHub City</summary><img alt="" width="400" src="https://github.com/lowlighter/metrics/blob/examples/metrics.plugin.skyline.city.svg" alt=""></img></details>
-        <img width="900" height="1" alt="">
-      </td>
-        <td  align="center">
-        <details open><summary>PageSpeed scores</summary><img alt="" width="400" src="https://github.com/lowlighter/metrics/blob/examples/metrics.plugin.pagespeed.svg" alt=""></img></details>
-        <details><summary>PageSpeed scores with detailed report</summary><img alt="" width="400" src="https://github.com/lowlighter/metrics/blob/examples/metrics.plugin.pagespeed.detailed.svg" alt=""></img></details>
-        <details><summary>PageSpeed scores with a website screenshot</summary><img alt="" width="400" src="https://github.com/lowlighter/metrics/blob/examples/metrics.plugin.pagespeed.screenshot.svg" alt=""></img></details>
-        <img width="900" height="1" alt="">
-      </td>
-  </tr>
-  <tr>
-    <th><a href="source/plugins/stackoverflow/README.md">🗨️ Stack Overflow</a></th>
-    <th><a href="source/plugins/anilist/README.md">🌸 Anilist watch list and reading list</a></th>
-  </tr>
-  <tr>
-        <td  align="center">
-        <img alt="" width="400" src="https://github.com/lowlighter/metrics/blob/examples/metrics.plugin.stackoverflow.svg" alt=""></img>
-        <img width="900" height="1" alt="">
-      </td>
-        <td  align="center">
-        <details open><summary>For anime watchers</summary><img alt="" width="400" src="https://github.com/lowlighter/metrics/blob/examples/metrics.plugin.anilist.svg" alt=""></img></details>
-        <details><summary>For manga readers</summary><img alt="" width="400" src="https://github.com/lowlighter/metrics/blob/examples/metrics.plugin.anilist.manga.svg" alt=""></img></details>
-        <details open><summary>For waifus simp</summary><img alt="" width="400" src="https://github.com/lowlighter/metrics/blob/examples/metrics.plugin.anilist.characters.svg" alt=""></img></details>
-        <img width="900" height="1" alt="">
-      </td>
-  </tr>
-  <tr>
-    <th><a href="source/plugins/music/README.md">🎼 Music activity and suggestions</a></th>
-    <th><a href="source/plugins/posts/README.md">✒️ Recent posts</a></th>
-  </tr>
-  <tr>
-        <td  align="center">
-        <details open><summary>Random tracks from a playlist</summary><img alt="" width="400" src="https://github.com/lowlighter/metrics/blob/examples/metrics.plugin.music.playlist.svg" alt=""></img></details>
-        <details open><summary>Recently listened</summary><img alt="" width="400" src="https://github.com/lowlighter/metrics/blob/examples/metrics.plugin.music.recent.svg" alt=""></img></details>
-        <img width="900" height="1" alt="">
-      </td>
-        <td  align="center">
-        <details open><summary>Latest posts width description and cover image</summary><img alt="" width="400" src="https://github.com/lowlighter/metrics/blob/examples/metrics.plugin.posts.full.svg" alt=""></img></details>
-        <details><summary>Latest posts</summary><img alt="" width="400" src="https://github.com/lowlighter/metrics/blob/examples/metrics.plugin.posts.svg" alt=""></img></details>
-        <img width="900" height="1" alt="">
-      </td>
-  </tr>
-  <tr>
-    <th><a href="source/plugins/rss/README.md">🗼 Rss feed</a></th>
-    <th><a href="source/plugins/wakatime/README.md">⏰ WakaTime</a></th>
-  </tr>
-  <tr>
-        <td  align="center">
-        <img alt="" width="400" src="https://github.com/lowlighter/metrics/blob/examples/metrics.plugin.rss.svg" alt=""></img>
-        <img width="900" height="1" alt="">
-      </td>
-        <td  align="center">
-        <img alt="" width="400" src="https://github.com/lowlighter/metrics/blob/examples/metrics.plugin.wakatime.svg" alt=""></img>
-        <img width="900" height="1" alt="">
-      </td>
-  </tr>
-  <tr>
-    <th><a href="source/plugins/leetcode/README.md">🗳️ Leetcode</a></th>
-    <th><a href="source/plugins/steam/README.md">🕹️ Steam</a></th>
-  </tr>
-  <tr>
-        <td  align="center">
-        <img alt="" width="400" src="https://github.com/lowlighter/metrics/blob/examples/metrics.plugin.leetcode.svg" alt=""></img>
-        <img width="900" height="1" alt="">
-      </td>
-        <td  align="center">
-        <details open><summary>Recently played games</summary><img alt="" width="400" src="https://github.com/lowlighter/metrics/blob/examples/metrics.plugin.steam.svg" alt=""></img></details>
-        <details><summary>Profile and detailed game history</summary><img alt="" width="400" src="https://github.com/lowlighter/metrics/blob/examples/metrics.plugin.steam.full.svg" alt=""></img></details>
-        <img width="900" height="1" alt="">
-      </td>
-  </tr>
