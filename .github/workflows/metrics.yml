@@ -24,7 +24,6 @@ jobs:
           config_twemoji: yes
           plugin_lines: yes
           plugin_lines_history_limit: 5
-          plugin_lines_repositories_limit: 900
           plugin_lines_sections: base
           plugin_traffic: yes
           repositories_forks: yes
@@ -43,7 +42,6 @@ jobs:
           base: ""
           plugin_lines: yes
           plugin_lines_history_limit: 1
-          plugin_lines_repositories_limit: 900
           plugin_lines_sections: history
 
   # Language Activity

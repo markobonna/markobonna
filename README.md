@@ -34,7 +34,7 @@
 [![GitHub followers](https://img.shields.io/github/followers/markobonna?style=social)](https://github.com/markobonna)
 [![GitHub stars](https://img.shields.io/github/stars/markobonna?style=social)](https://github.com/markobonna)
 
-Welcome to my GitHub profile where I create to amaze with code!
+<h3>Welcome to my GitHub profile where I create to amaze with code!</h3>
 
 <table>
   <tr>
@@ -262,6 +262,8 @@ Welcome to my GitHub profile where I create to amaze with code!
   <img src="https://komarev.com/ghpvc/?username=markobonna&color=blueviolet&style=flat-square&label=Profile+Views" alt="Profile Views" />
 </div>
 
+<!--
 <div align="center">
   <sub>Built with ❤️ using <a href="https://github.com/lowlighter/metrics">GitHub Metrics</a></sub>
 </div>
+  -->
