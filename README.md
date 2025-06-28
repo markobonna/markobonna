@@ -128,27 +128,23 @@ Welcome to my GitHub profile where I create to amaze with code!
 
 </td>
 
-  </tr>
-  <tr> <th colspan="2" align="center">
-      <h2> 🏃 My Activity</h2>
-    </th></tr>
-  <tr>
+<tr> 
+<th colspan="2" align="center">
+    <h2> 🏃 My Activity</h2>
+</th>
+</tr>
+<tr>
     <th align="center">📊 My GitHub Metrics</th>
     <th align="center">🈷️ Languages I Use</th>
-  </tr>
+</tr>
 
-  <tr>
+<tr>
     <td align="center">
       <img alt="" width="400" src="metrics.svg" alt="GitHub Metrics"></img>
     </td>
     <td align="center">
       <img alt="" width="400" src="metrics.languages.svg" alt="Languages"></img>
     </td>
-  </tr>
-  <tr>
-    <th colspan="2" align="center">
-      <h3>🚀 My Coding Journey</h3>
-    </th>
   </tr>
   <tr>
     <th>📅 Isometric commit calendar</th>
@@ -170,7 +166,7 @@ Welcome to my GitHub profile where I create to amaze with code!
   </tr>
   <tr>
     <th>👨‍💻 Lines of Code</th>
-    <th>📌 Habits</th>
+    <th>🎟️ Issues & Pull Requests</th>
   </tr>
   <tr>
     <td align="center">
@@ -180,20 +176,20 @@ Welcome to my GitHub profile where I create to amaze with code!
       <img width="900" height="1" alt="">
     </td>
     <td align="center">
-      <details open><summary>Habits</summary>
-        <img alt="" width="400" src="metrics.habits.svg" alt="Habits"></img>
+      <details open><summary>My contribution to open source</summary>
+        <img alt="" width="400" src="metrics.followup.svg" alt="Issues"></img>
       </details>
       <img width="900" height="1" alt="">
     </td>
   </tr>
   <tr>
-    <th>🎟️ Issues & Pull Requests</th>
+    <th>🎭 Reactions</th>
     <th>🎫 Following</th>
   </tr>
   <tr>
     <td align="center">
-      <details open><summary>My contribution to open source</summary>
-        <img alt="" width="400" src="metrics.followup.svg" alt="Issues"></img>
+      <details open><summary>Reactions</summary>
+        <img alt="" width="400" src="metrics.reactions.svg" alt="Reactions"></img>
       </details>
       <img width="900" height="1" alt="">
     </td>
@@ -204,25 +200,7 @@ Welcome to my GitHub profile where I create to amaze with code!
       <img width="900" height="1" alt="">
     </td>
   </tr>
-  <tr>
-    <th>🎭 Reactions</th>
-    <th>🌟 Stargazers</th>
-  </tr>
-  <tr>
-    <td align="center">
-      <details open><summary>Reactions</summary>
-        <img alt="" width="400" src="metrics.reactions.svg" alt="Reactions"></img>
-      </details>
-      <img width="900" height="1" alt="">
-    </td>
-    <td align="center">
-      <details open><summary>Stargazers</summary>
-        <img alt="" width="400" src="metrics.stargazers.svg" alt="Stargazers"></img>
-      </details>
-      <img width="900" height="1" alt="">
-    </td>
-  </tr>
-  <tr>
+<!--  <tr>
     <th>🏆 GitHub Achievements</th>
     <th>🌟 Stargazers</th>
   </tr>
@@ -240,7 +218,6 @@ Welcome to my GitHub profile where I create to amaze with code!
       <img width="900" height="1" alt="">
     </td>
   </tr>
-  
   <tr>
     <th colspan="2" align="center">
       <h3>📈 GitHub Stats</h3>
@@ -254,6 +231,8 @@ Welcome to my GitHub profile where I create to amaze with code!
       <img src="https://github-readme-streak-stats.herokuapp.com/?user=markobonna&theme=radical" alt="GitHub Streak" />
     </td>
   </tr>
+  -->
+
   <tr>
     <th colspan="2" align="center">
       <h3>🤝 Let's Connect!</h3>
