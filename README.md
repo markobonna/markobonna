@@ -38,13 +38,14 @@ Welcome to my GitHub profile where I create to amaze with code!
 
 <table>
   <tr>
-    <th colspan="2" align="center">
+    <th colspan="3" align="center">
       <h3>🛠️ Technologies & Tools</h3>
     </th>
     </tr>
     <tr>
     <th align="center">Core Languages</th>
     <th align="center">Mobile</th>
+    <th align="center">AI Services and API</th>
     </tr>
     <tr>
     <td align="center" colspan="1">
@@ -61,6 +62,13 @@ Welcome to my GitHub profile where I create to amaze with code!
 </a>
 <a href="https://developer.android.com" target="_blank"> <img align="left" alt="Android" height ="42px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/android/android.svg"> </a>
     </td>
+    <td align="center" colspan="1">
+    <a href="https://openai.com/" target="_blank"> <img align="left" src="https://avatars.githubusercontent.com/u/14957082?s=200&v=4" alt="openai" height="42px"/> </a>
+<a href="https://anthropic.com" target="_blank"> <img align="left" src="https://avatars.githubusercontent.com/u/76263028?s=200&v=4" alt="anthropic" height="42px"/> </a>
+<a href="https://aws.amazon.com" target="_blank"><img align="left" alt="AWS" height ="42px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/aws/aws.svg"></a>
+<a href="https://cloud.google.com/vertex-ai/" target="_blank"> <img align="left" src="https://www.gstatic.com/bricks/image/cf69f322-f5ae-4d81-80e4-3dd008aca174.svg" alt="google-vertex-ai" height="42px"/> </a>
+<a href="https://anythingllm.com/" target="_blank"> <img align="left" src="https://raw.githubusercontent.com/markobonna/markobonna/main/assets/icons/anythingllm.svg" alt="anything-llm" height="42px"/> </a>
+</td>
     </tr>
     <tr>
     <th align="center">Frontend & Web</th>
