@@ -462,6 +462,8 @@ Generate metrics that can be embedded everywhere, including your GitHub profile 
   </tr>
   
 
+
+---
 # Your Profile
 
 ![Metrics](metrics.svg)
@@ -474,3 +476,184 @@ Generate metrics that can be embedded everywhere, including your GitHub profile 
 
 ## Achievements
 ![Achievements](metrics.achievements.svg)
+
+---
+# 👋 Hi there! I'm [Your Name]
+
+[![GitHub followers](https://img.shields.io/github/followers/YOUR_USERNAME?style=social)](https://github.com/YOUR_USERNAME)
+[![GitHub stars](https://img.shields.io/github/stars/YOUR_USERNAME?style=social)](https://github.com/YOUR_USERNAME)
+
+Welcome to my GitHub profile! I'm a passionate developer who loves creating amazing things with code.
+
+<table>
+  <tr>
+    <th align="center">📊 My GitHub Metrics</th>
+    <th align="center">🈷️ Languages I Use</th>
+  </tr>
+  <tr>
+    <td align="center">
+      <img alt="" width="400" src="metrics.svg" alt="GitHub Metrics"></img>
+    </td>
+    <td align="center">
+      <img alt="" width="400" src="metrics.languages.svg" alt="Languages"></img>
+    </td>
+  </tr>
+  <tr>
+    <th colspan="2" align="center">
+      <h3>🚀 My Coding Journey</h3>
+    </th>
+  </tr>
+  <tr>
+    <th>💡 Coding Habits & Activity</th>
+    <th>🏆 GitHub Achievements</th>
+  </tr>
+  <tr>
+    <td align="center">
+      <details open><summary>My coding patterns and activity</summary>
+        <img alt="" width="400" src="metrics.activity.svg" alt="Activity"></img>
+      </details>
+      <img width="900" height="1" alt="">
+    </td>
+    <td align="center">
+      <details open><summary>Achievements and milestones</summary>
+        <img alt="" width="400" src="metrics.achievements.svg" alt="Achievements"></img>
+      </details>
+      <img width="900" height="1" alt="">
+    </td>
+  </tr>
+  <tr>
+    <th>📅 Commit Calendar</th>
+    <th>🌟 Recent Stars</th>
+  </tr>
+  <tr>
+    <td align="center">
+      <details open><summary>My contribution timeline</summary>
+        <img alt="" width="400" src="metrics.calendar.svg" alt="Calendar"></img>
+      </details>
+      <img width="900" height="1" alt="">
+    </td>
+    <td align="center">
+      <details open><summary>Repositories I've starred recently</summary>
+        <img alt="" width="400" src="metrics.stars.svg" alt="Stars"></img>
+      </details>
+      <img width="900" height="1" alt="">
+    </td>
+  </tr>
+  <tr>
+    <th>👨‍💻 Lines of Code</th>
+    <th>📌 My Interests</th>
+  </tr>
+  <tr>
+    <td align="center">
+      <details open><summary>Code contribution statistics</summary>
+        <img alt="" width="400" src="metrics.lines.svg" alt="Lines"></img>
+      </details>
+      <img width="900" height="1" alt="">
+    </td>
+    <td align="center">
+      <details open><summary>Topics I'm interested in</summary>
+        <img alt="" width="400" src="metrics.topics.svg" alt="Topics"></img>
+      </details>
+      <img width="900" height="1" alt="">
+    </td>
+  </tr>
+  <tr>
+    <th>🎟️ Issues & Pull Requests</th>
+    <th>🎫 My Gists</th>
+  </tr>
+  <tr>
+    <td align="center">
+      <details open><summary>My contribution to open source</summary>
+        <img alt="" width="400" src="metrics.followup.svg" alt="Issues"></img>
+      </details>
+      <img width="900" height="1" alt="">
+    </td>
+    <td align="center">
+      <details open><summary>Code snippets and examples</summary>
+        <img alt="" width="400" src="metrics.gists.svg" alt="Gists"></img>
+      </details>
+      <img width="900" height="1" alt="">
+    </td>
+  </tr>
+  <tr>
+    <th colspan="2" align="center">
+      <h3>🛠️ Technologies & Tools</h3>
+    </th>
+  </tr>
+  <tr>
+    <td align="center" colspan="2">
+      <img src="https://skillicons.dev/icons?i=js,typescript,python,react,nodejs,docker,git,github,vscode,linux" />
+    </td>
+  </tr>
+  <tr>
+    <th colspan="2" align="center">
+      <h3>📈 GitHub Stats</h3>
+    </th>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical" alt="GitHub Stats" />
+    </td>
+    <td align="center">
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=radical" alt="GitHub Streak" />
+    </td>
+  </tr>
+  <tr>
+    <th colspan="2" align="center">
+      <h3>🤝 Let's Connect!</h3>
+    </th>
+  </tr>
+  <tr>
+    <td align="center" colspan="2">
+      <a href="https://linkedin.com/in/YOUR_LINKEDIN">
+        <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+      </a>
+      <a href="https://twitter.com/YOUR_TWITTER">
+        <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/>
+      </a>
+      <a href="mailto:YOUR_EMAIL">
+        <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+      </a>
+      <a href="https://YOUR_WEBSITE">
+        <img src="https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="Website"/>
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" colspan="2">
+      <h3>💬 About Me</h3>
+      <p>
+        🔭 I'm currently working on: <strong>[Your current project]</strong><br>
+        🌱 I'm currently learning: <strong>[What you're learning]</strong><br>
+        👯 I'm looking to collaborate on: <strong>[What you want to collaborate on]</strong><br>
+        🤔 I'm looking for help with: <strong>[What you need help with]</strong><br>
+        💬 Ask me about: <strong>[Your expertise areas]</strong><br>
+        📫 How to reach me: <strong>[Your preferred contact method]</strong><br>
+        😄 Pronouns: <strong>[Your pronouns]</strong><br>
+        ⚡ Fun fact: <strong>[Something interesting about you]</strong>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" colspan="2">
+      <h3>🎯 2025 Goals</h3>
+      <ul align="left">
+        <li>🚀 Launch [Your project goal]</li>
+        <li>📚 Learn [New technology/skill]</li>
+        <li>🤝 Contribute to [Number] open source projects</li>
+        <li>📝 Write [Number] technical blog posts</li>
+        <li>🎤 Speak at [Number] conferences/meetups</li>
+      </ul>
+    </td>
+  </tr>
+</table>
+
+---
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&color=blueviolet&style=flat-square&label=Profile+Views" alt="Profile Views" />
+</div>
+
+<div align="center">
+  <sub>Built with ❤️ using <a href="https://github.com/lowlighter/metrics">GitHub Metrics</a></sub>
+</div>
