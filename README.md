@@ -461,3 +461,16 @@ Generate metrics that can be embedded everywhere, including your GitHub profile 
       </td>
   </tr>
   
+
+# Your Profile
+
+![Metrics](metrics.svg)
+
+## Languages
+![Languages](metrics.languages.svg)
+
+## Activity & Habits  
+![Activity](metrics.activity.svg)
+
+## Achievements
+![Achievements](metrics.achievements.svg)
