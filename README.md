@@ -39,18 +39,7 @@
 -->
 
 ---
-<table>
-  <tr>
-    <th colspan="2" align="center">
-      <h3>🛠️ Technologies & Tools</h3>
-    </th>
-  </tr>
-  <tr>
-    <td align="center" colspan="2">
-      <img src="https://skillicons.dev/icons?i=js,typescript,python,react,nodejs,docker,git,github,vscode,linux" />
-    </td>
-  </tr>
-</table>
+
 
 #### Core Languages:
 <a href="https://www.python.org" target="_blank"><img align="left" alt="Python" height ="42px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/python/python.svg"></a>
@@ -157,6 +146,16 @@
 # 📊 Metrics 
 
 <table>
+  <tr>
+    <th colspan="2" align="center">
+      <h3>🛠️ Technologies1 & Tools</h3>
+    </th>
+  </tr>
+  <tr>
+    <td align="center" colspan="2">
+      <img src="https://skillicons.dev/icons?i=js,typescript,python,react,nodejs,docker,git,github,vscode,linux" />
+    </td>
+  </tr>
   <tr>
     <th align="center">For user accounts</th>
     <th align="center">For organization accounts</th>
@@ -473,6 +472,16 @@ Welcome to my GitHub profile where I create to amaze with code!
     <th align="center">📊 My GitHub Metrics</th>
     <th align="center">🈷️ Languages I Use</th>
   </tr>
+    <tr>
+    <th colspan="2" align="center">
+      <h3>🛠️ Technologies2 & Tools</h3>
+    </th>
+  </tr>
+  <tr>
+    <td align="center" colspan="2">
+      <img src="https://skillicons.dev/icons?i=js,typescript,python,react,nodejs,docker,git,github,vscode,linux" />
+    </td>
+  </tr>
   <tr>
     <td align="center">
       <img alt="" width="400" src="metrics.svg" alt="GitHub Metrics"></img>
@@ -560,7 +569,7 @@ Welcome to my GitHub profile where I create to amaze with code!
   </tr>
   <tr>
     <th colspan="2" align="center">
-      <h3>🛠️ Technologies & Tools</h3>
+      <h3>🛠️ Technologies3 & Tools</h3>
     </th>
   </tr>
   <tr>
