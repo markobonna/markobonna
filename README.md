@@ -5,14 +5,13 @@
 
 <!-- I am a versatilist and easily adapt to different hats (Full Stack Web Developer 🌐, App Developer 📱, ML Engineer 🤖 or beginner level Designer 🎨) depending on what the project requires. I love exploring new tech stack 💻 and leveraging them to build cool stuffs 🛠️. -->
 
-
 <!--<img align="right" alt="GIF" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/main/techstack.gif" width="360px"/>
-  
+
 ### 🧐 More About Me:
 
 - 🔭 &nbsp; I'm currently working on **youtube-audio-player**
 - 🤝 &nbsp; I'm looking to collaborate on [sheets-database](https://github.com/rahul-jha98/sheets-database)
-- 🌱 &nbsp; I'm currently learning Typescript; 
+- 🌱 &nbsp; I'm currently learning Typescript;
 - 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/rahul-jha98?tab=repositories)
 - 🎨 &nbsp; Using [this svg](https://storyset.com/illustration/javascript-frameworks/amico) and Figma I made 👉
 - 💬 &nbsp; Ask me about anything tech related, I am happy to help;
@@ -30,7 +29,6 @@
 <a href="https://wavelengths.netlify.app/" target="_blank"> <img alt="wavelength" src="./projects/wavelength.svg" height="68" align="left"> </a>
 -->
 
-
 # 👋 Hey! I'm Mark!
 
 [![GitHub followers](https://img.shields.io/github/followers/markobonna?style=social)](https://github.com/markobonna)
@@ -41,29 +39,28 @@ Welcome to my GitHub profile where I create to amaze with code!
 <table>
   <tr>
     <th colspan="2" align="center">
-      <h3>🛠️ Technologies2 & Tools</h3>
+      <h3>🛠️ Technologies & Tools</h3>
     </th>
+    </tr>
     <tr>
     <th align="center">thing 1</th>
-    <td align="center" colspan="2">
+    <th align="center">thing 2</th>
+    </tr>
+    <tr>
+    <td align="center" colspan="1">
       <img src="https://skillicons.dev/icons?i=js,typescript,python,react,nodejs" />
     </td>
-    <th align="center">thing 2</th>
-    <td align="center" colspan="2">
+    <td align="center" colspan="1">
       <img src="https://skillicons.dev/icons?i=docker,git,github,vscode,linux" />
     </td>
     </tr>
+
   </tr>
   <tr>
     <th align="center">📊 My GitHub Metrics</th>
     <th align="center">🈷️ Languages I Use</th>
   </tr>
- 
-  <tr>
-    <td align="center" colspan="2">
-      <img src="https://skillicons.dev/icons?i=js,typescript,python,react,nodejs,docker,git,github,vscode,linux" />
-    </td>
-  </tr>
+
   <tr>
     <td align="center">
       <img alt="" width="400" src="metrics.svg" alt="GitHub Metrics"></img>
@@ -232,19 +229,16 @@ Welcome to my GitHub profile where I create to amaze with code!
   <sub>Built with ❤️ using <a href="https://github.com/lowlighter/metrics">GitHub Metrics</a></sub>
 </div>
 
-
-
-
-
 #### Core Languages:
+
 <a href="https://www.python.org" target="_blank"><img align="left" alt="Python" height ="42px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/python/python.svg"></a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img align="left" alt="JavaScript" height ="42px"  src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/javascript/javascript.svg"> </a>
 <a href="https://www.typescriptlang.org/" target="_blank"><img align="left" alt="Typescirpt" height ="42px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/typescript/typescript.svg"></a>
 
-
 <br/><br/>
 
 #### Mobile:
+
 <a href="https://developer.apple.com" target="_blank"> 
   <img align="left" alt="iOS" height="42px" src="https://raw.githubusercontent.com/markobonna/markobonna/main/assets/icons/apple.svg"> 
 </a>
@@ -253,10 +247,10 @@ Welcome to my GitHub profile where I create to amaze with code!
 </a>
 <a href="https://developer.android.com" target="_blank"> <img align="left" alt="Android" height ="42px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/android/android.svg"> </a>
 
-
 <br/><br/>
 
 #### Frontend & Web:
+
 <a href="https://reactjs.org/" target="_blank"> <img align="left" alt="React" height ="42px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/react/react.svg"></a>
 <a href="https://vite.dev/" target="_blank"> <img align="left" alt="Vite" height ="42px" src="https://avatars.githubusercontent.com/u/65625612?s=200&v=4"></a>
 <a href="https://vercel.com/docs/" target="_blank"> <img align="left" alt="Next.js" height ="42px" src="https://avatars.githubusercontent.com/u/14985020?s=200&v=4"></a>
@@ -264,16 +258,16 @@ Welcome to my GitHub profile where I create to amaze with code!
 <br/><br/>
 
 #### Backend & Infrastructure:
+
 <a href="https://nodejs.org" target="_blank"><img align="left" alt="Node.js" height ="42px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/node/node.svg"></a>
 <a href="https://aws.amazon.com" target="_blank"><img align="left" alt="AWS" height ="42px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/aws/aws.svg"></a>
 <a href="https://www.docker.com" target="_blank"><img align="left" alt="Docker" height ="42px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/docker/docker.svg"></a>
 <a href="https://kubernetes.io" target="_blank"><img align="left" alt="Kubernetes" height ="42px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/kubernetes/kubernetes.svg"></a>
 
-
-
 <br/><br/>
 
 #### AI/ML Frameworks & Libraries:
+
 <a href="https://www.llama.com/" target="_blank"> 
   <img align="left" alt="Llama" height="42px" src="https://avatars.githubusercontent.com/u/153379578?s=200&v=4"> 
 </a>
@@ -284,61 +278,47 @@ Welcome to my GitHub profile where I create to amaze with code!
 <a href="https://huggingface.co/" target="_blank"> <img align="left" src="https://avatars.githubusercontent.com/u/25720743?s=200&v=4" alt="hugging-face-transformers" height="42px"/> </a> 
 <a href="https://scikit-learn.org/" target="_blank"> <img align="left" src="https://avatars.githubusercontent.com/u/365630?s=200&v=4" alt="scikit-learn" height="42px"/> </a> 
 <a href="https://pandas.pydata.org/" target="_blank"> <img align="left" src="https://avatars.githubusercontent.com/u/21206976?s=200&v=4" alt="pandas" height="42px"/> </a> 
-<a href="https://numpy.org/" target="_blank"> <img align="left" src="https://avatars.githubusercontent.com/u/288276?s=200&v=4" alt="numpy" height="42px"/> </a> 
-
+<a href="https://numpy.org/" target="_blank"> <img align="left" src="https://avatars.githubusercontent.com/u/288276?s=200&v=4" alt="numpy" height="42px"/> </a>
 
 <br/><br/>
 
 #### AI Infrastructure & Data:
-<a href="https://www.pinecone.io/" target="_blank"> <img align="left" src="https://raw.githubusercontent.com/markobonna/markobonna/main/assets/icons/Pinecone-Primary-Logo-Black.svg" alt="pinecone" height="42px"/> </a> 
-<a href="https://weaviate.io/" target="_blank"> <img align="left" src="https://avatars.githubusercontent.com/u/37794290?s=200&v=4" alt="weaviate" height="42px"/> </a> 
-<a href="https://www.trychroma.com/" target="_blank"> <img align="left" src="https://avatars.githubusercontent.com/u/105881770?s=200&v=4" alt="chroma" height="42px"/> </a> 
-<a href="https://www.postgresql.org//" target="_blank"> <img align="left" src="https://www.postgresql.org/media/img/about/press/elephant.png" alt="PostgreSQL" height="42px"/> </a> 
-<a href="https://airflow.apache.org/" target="_blank"> <img align="left" src="https://raw.githubusercontent.com/markobonna/markobonna/main/assets/icons/apache-airflow.png" alt="apache airflow" height="42px"/> </a> 
-<a href="https://www.getdbt.com/" target="_blank"> <img align="left" src="https://avatars.githubusercontent.com/u/18339788?s=200&v=4" alt="sbt" height="42px"/> </a> 
-<a href="https://www.mlflow.org/" target="_blank"> <img align="left" src="https://avatars.githubusercontent.com/u/39938107?s=200&v=4" alt="MLflow" height="42px"/> </a> 
-<a href="https://wandb.ai/site" target="_blank"> <img align="left" src="https://raw.githubusercontent.com/markobonna/markobonna/main/assets/icons/wandb.svg" alt="weights-biases" height="42px"/> </a> 
-<a href="https://lmstudio.ai" target="_blank"> <img align="left" src="https://avatars.githubusercontent.com/u/133744619?s=200&v=4" alt="lmstudio" height="42px"/> </a> 
+
+<a href="https://www.pinecone.io/" target="_blank"> <img align="left" src="https://raw.githubusercontent.com/markobonna/markobonna/main/assets/icons/Pinecone-Primary-Logo-Black.svg" alt="pinecone" height="42px"/> </a>
+<a href="https://weaviate.io/" target="_blank"> <img align="left" src="https://avatars.githubusercontent.com/u/37794290?s=200&v=4" alt="weaviate" height="42px"/> </a>
+<a href="https://www.trychroma.com/" target="_blank"> <img align="left" src="https://avatars.githubusercontent.com/u/105881770?s=200&v=4" alt="chroma" height="42px"/> </a>
+<a href="https://www.postgresql.org//" target="_blank"> <img align="left" src="https://www.postgresql.org/media/img/about/press/elephant.png" alt="PostgreSQL" height="42px"/> </a>
+<a href="https://airflow.apache.org/" target="_blank"> <img align="left" src="https://raw.githubusercontent.com/markobonna/markobonna/main/assets/icons/apache-airflow.png" alt="apache airflow" height="42px"/> </a>
+<a href="https://www.getdbt.com/" target="_blank"> <img align="left" src="https://avatars.githubusercontent.com/u/18339788?s=200&v=4" alt="sbt" height="42px"/> </a>
+<a href="https://www.mlflow.org/" target="_blank"> <img align="left" src="https://avatars.githubusercontent.com/u/39938107?s=200&v=4" alt="MLflow" height="42px"/> </a>
+<a href="https://wandb.ai/site" target="_blank"> <img align="left" src="https://raw.githubusercontent.com/markobonna/markobonna/main/assets/icons/wandb.svg" alt="weights-biases" height="42px"/> </a>
+<a href="https://lmstudio.ai" target="_blank"> <img align="left" src="https://avatars.githubusercontent.com/u/133744619?s=200&v=4" alt="lmstudio" height="42px"/> </a>
 
 <br/><br/>
 
 #### AI Services and API:
-<a href="https://openai.com/" target="_blank"> <img align="left" src="https://avatars.githubusercontent.com/u/14957082?s=200&v=4" alt="openai" height="42px"/> </a> 
-<a href="https://anthropic.com" target="_blank"> <img align="left" src="https://avatars.githubusercontent.com/u/76263028?s=200&v=4" alt="anthropic" height="42px"/> </a> 
+
+<a href="https://openai.com/" target="_blank"> <img align="left" src="https://avatars.githubusercontent.com/u/14957082?s=200&v=4" alt="openai" height="42px"/> </a>
+<a href="https://anthropic.com" target="_blank"> <img align="left" src="https://avatars.githubusercontent.com/u/76263028?s=200&v=4" alt="anthropic" height="42px"/> </a>
 <a href="https://aws.amazon.com" target="_blank"><img align="left" alt="AWS" height ="42px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/aws/aws.svg"></a>
-<a href="https://cloud.google.com/vertex-ai/" target="_blank"> <img align="left" src="https://www.gstatic.com/bricks/image/cf69f322-f5ae-4d81-80e4-3dd008aca174.svg" alt="google-vertex-ai" height="42px"/> </a> 
-<a href="https://anythingllm.com/" target="_blank"> <img align="left" src="https://raw.githubusercontent.com/markobonna/markobonna/main/assets/icons/anythingllm.svg" alt="anything-llm" height="42px"/> </a> 
-
-
-
-
-
-
-
-
-
+<a href="https://cloud.google.com/vertex-ai/" target="_blank"> <img align="left" src="https://www.gstatic.com/bricks/image/cf69f322-f5ae-4d81-80e4-3dd008aca174.svg" alt="google-vertex-ai" height="42px"/> </a>
+<a href="https://anythingllm.com/" target="_blank"> <img align="left" src="https://raw.githubusercontent.com/markobonna/markobonna/main/assets/icons/anythingllm.svg" alt="anything-llm" height="42px"/> </a>
 
 <br/><br/>
-
-
 
 <!-- GitHub Metrics -->
 
 <br/>
 
 ## 📊 GitHub Metrics
+
 ![GitHub Metrics](/github-metrics.svg)
-
-
 
 ---
 
+---
 
-
-----
-
-
-# 📊 Metrics 
+# 📊 Metrics
 
 <table>
   <tr>
@@ -650,4 +630,3 @@ Welcome to my GitHub profile where I create to amaze with code!
         <img width="900" height="1" alt="">
       </td>
   </tr>
-  
