@@ -62,11 +62,22 @@ Welcome to my GitHub profile where I create to amaze with code!
 </a>
 <a href="https://developer.android.com" target="_blank"> <img align="left" alt="Android" height ="42px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/android/android.svg"> </a>
     </td>
-        <td align="center" colspan="1">
+        <
+    </tr>
+    <tr>
+    <th align="center">Frontend & Web</th>
+    <th align="center">Backend & Infrastructure</th>
+    </tr>
+    <tr>
+td align="center" colspan="1">
       <a href="https://reactjs.org/" target="_blank"> <img align="left" alt="React" height ="42px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/react/react.svg"></a>
 <a href="https://vite.dev/" target="_blank"> <img align="left" alt="Vite" height ="42px" src="https://avatars.githubusercontent.com/u/65625612?s=200&v=4"></a>
 <a href="https://vercel.com/docs/" target="_blank"> <img align="left" alt="Next.js" height ="42px" src="https://avatars.githubusercontent.com/u/14985020?s=200&v=4"></a>
     </td>
+    <td><a href="https://nodejs.org" target="_blank"><img align="left" alt="Node.js" height ="42px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/node/node.svg"></a>
+<a href="https://aws.amazon.com" target="_blank"><img align="left" alt="AWS" height ="42px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/aws/aws.svg"></a>
+<a href="https://www.docker.com" target="_blank"><img align="left" alt="Docker" height ="42px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/docker/docker.svg"></a>
+<a href="https://kubernetes.io" target="_blank"><img align="left" alt="Kubernetes" height ="42px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/kubernetes/kubernetes.svg"></a></td>
     </tr>
 
   </tr>
@@ -252,11 +263,6 @@ Welcome to my GitHub profile where I create to amaze with code!
 <br/><br/>
 
 #### Backend & Infrastructure:
-
-<a href="https://nodejs.org" target="_blank"><img align="left" alt="Node.js" height ="42px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/node/node.svg"></a>
-<a href="https://aws.amazon.com" target="_blank"><img align="left" alt="AWS" height ="42px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/aws/aws.svg"></a>
-<a href="https://www.docker.com" target="_blank"><img align="left" alt="Docker" height ="42px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/docker/docker.svg"></a>
-<a href="https://kubernetes.io" target="_blank"><img align="left" alt="Kubernetes" height ="42px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/kubernetes/kubernetes.svg"></a>
 
 <br/><br/>
 
