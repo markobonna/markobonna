@@ -79,7 +79,7 @@ Welcome to my GitHub profile where I create to amaze with code!
     </tr>
 
   <tr>
-    <th align="center">AI/ML Frameworks & Libraries</th>
+    <th colspan="2" align="left">AI/ML Frameworks & Libraries</th>
     </tr>
 
 <td align="center" colspan="2">
@@ -97,7 +97,7 @@ Welcome to my GitHub profile where I create to amaze with code!
 </td>
 
   <tr>
-    <th align="center">AI Infrastructure & Data</th>
+    <th colspan="2" align="left">AI Infrastructure & Data</th>
     </tr>
 
 <td align="center" colspan="2">
@@ -115,7 +115,7 @@ Welcome to my GitHub profile where I create to amaze with code!
 </td>
 
 <tr>
-<th align="center">AI Services and API</th>
+<th colspan="2" align="left">AI Services and API</th>
 </tr>
 
 <td align="center" colspan="2">
