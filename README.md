@@ -39,6 +39,18 @@
 -->
 
 ---
+<table>
+  <tr>
+    <th colspan="2" align="center">
+      <h3>🛠️ Technologies & Tools</h3>
+    </th>
+  </tr>
+  <tr>
+    <td align="center" colspan="2">
+      <img src="https://skillicons.dev/icons?i=js,typescript,python,react,nodejs,docker,git,github,vscode,linux" />
+    </td>
+  </tr>
+</table>
 
 #### Core Languages:
 <a href="https://www.python.org" target="_blank"><img align="left" alt="Python" height ="42px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/python/python.svg"></a>
