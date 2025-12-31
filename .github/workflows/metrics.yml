@@ -11,7 +11,7 @@ jobs:
     permissions:
       contents: write
     steps:
-      - uses: lowlighter/metrics@latest
+      - uses: markobonna/metrics@latest
         with:
           filename: metrics.svg
           token: ${{ secrets.METRICS_TOKEN }}
@@ -33,7 +33,7 @@ jobs:
     permissions:
       contents: write
     steps:
-      - uses: lowlighter/metrics@latest
+      - uses: markobonna/metrics@latest
         with:
           filename: metrics.lines.svg
           token: ${{ secrets.METRICS_TOKEN }}
@@ -49,7 +49,7 @@ jobs:
     permissions:
       contents: write
     steps:
-      - uses: lowlighter/metrics@latest
+      - uses: markobonna/metrics@latest
         with:
           filename: metrics.languages.svg
           token: ${{ secrets.METRICS_TOKEN }}
@@ -70,7 +70,7 @@ jobs:
     permissions:
       contents: write
     steps:
-      - uses: lowlighter/metrics@latest
+      - uses: markobonna/metrics@latest
         with:
           filename: metrics.activity.svg
           token: ${{ secrets.METRICS_TOKEN }}
@@ -89,7 +89,7 @@ jobs:
     permissions:
       contents: write
     steps:
-      - uses: lowlighter/metrics@latest
+      - uses: markobonna/metrics@latest
         with:
           filename: metrics.habits.svg
           token: ${{ secrets.METRICS_TOKEN }}
@@ -111,7 +111,7 @@ jobs:
     permissions:
       contents: write
     steps:
-      - uses: lowlighter/metrics@latest
+      - uses: markobonna/metrics@latest
         with:
           filename: metrics.achievements.svg
           token: ${{ secrets.METRICS_TOKEN }}
@@ -128,7 +128,7 @@ jobs:
     permissions:
       contents: write
     steps:
-      - uses: lowlighter/metrics@latest
+      - uses: markobonna/metrics@latest
         with:
           filename: metrics.calendar.svg
           token: ${{ secrets.METRICS_TOKEN }}
@@ -143,7 +143,7 @@ jobs:
     permissions:
       contents: write
     steps:
-      - uses: lowlighter/metrics@latest
+      - uses: markobonna/metrics@latest
         with:
           filename: metrics.isocalendar.svg
           token: ${{ secrets.METRICS_TOKEN }}
@@ -158,7 +158,7 @@ jobs:
     permissions:
       contents: write
     steps:
-      - uses: lowlighter/metrics@latest
+      - uses: markobonna/metrics@latest
         with:
           filename: metrics.followup.svg
           token: ${{ secrets.METRICS_TOKEN }}
@@ -175,7 +175,7 @@ jobs:
     permissions:
       contents: write
     steps:
-      - uses: lowlighter/metrics@latest
+      - uses: markobonna/metrics@latest
         with:
           filename: metrics.stargazers.svg
           token: ${{ secrets.METRICS_TOKEN }}
@@ -194,7 +194,7 @@ jobs:
     permissions:
       contents: write
     steps:
-      - uses: lowlighter/metrics@latest
+      - uses: markobonna/metrics@latest
         with:
           filename: metrics.reactions.svg
           token: ${{ secrets.METRICS_TOKEN }}
@@ -213,7 +213,7 @@ jobs:
     permissions:
       contents: write
     steps:
-      - uses: lowlighter/metrics@latest
+      - uses: markobonna/metrics@latest
         with:
           filename: metrics.people.svg
           token: ${{ secrets.METRICS_TOKEN }}
@@ -225,3 +225,36 @@ jobs:
           plugin_people_shuffle: yes
           plugin_people_size: 28
           plugin_people_types: followers, following
+
+  # Chess.com Stats
+  github-metrics-chess:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - uses: markobonna/metrics@latest
+        with:
+          filename: metrics.chess.svg
+          token: ${{ secrets.METRICS_TOKEN }}
+          user: markobonna
+          base: ""
+          plugin_chess: yes
+          plugin_chess_user: ${{ secrets.CHESS_TOKEN }}
+          plugin_chess_animation: yes
+
+  # Twitter/X Stats
+  github-metrics-twitter:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - uses: markobonna/metrics@latest
+        with:
+          filename: metrics.twitter.svg
+          token: ${{ secrets.METRICS_TOKEN }}
+          user: markobonna
+          base: ""
+          plugin_tweets: yes
+          plugin_tweets_token: ${{ secrets.TWITTER_TOKEN }}
+          plugin_tweets_user: markobonna
+          plugin_tweets_limit: 2
