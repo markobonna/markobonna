@@ -24,6 +24,7 @@ jobs:
           config_twemoji: yes
           plugin_lines: yes
           plugin_lines_history_limit: 5
+          plugin_lines_sections: repositories
           plugin_traffic: yes
           repositories_forks: yes
 
