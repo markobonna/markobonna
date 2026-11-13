@@ -80,7 +80,7 @@
   </tr>
 </table>
 
-<table>
+<table width="100%">
   <tr>
     <th colspan="2" align="center">
       <h2>🧰 The Toolkit I Ship With</h2>
@@ -92,6 +92,7 @@
   </tr>
   <tr>
     <td align="center">
+      <img width="1800" height="1" alt=""/>
       <a href="https://www.python.org" target="_blank"><img align="left" alt="Python" height="42px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/python/python.svg"></a>
       <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img align="left" alt="JavaScript" height="42px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/javascript/javascript.svg"></a>
       <a href="https://www.typescriptlang.org/" target="_blank"><img align="left" alt="TypeScript" height="42px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/typescript/typescript.svg"></a>
@@ -100,6 +101,7 @@
       <a href="https://www.postgresql.org/" target="_blank"><img align="left" alt="SQL" height="42px" src="https://www.postgresql.org/media/img/about/press/elephant.png"></a>
     </td>
     <td align="center">
+      <img width="1800" height="1" alt=""/>
       <a href="https://developer.apple.com" target="_blank"><img align="left" alt="iOS" height="42px" src="https://raw.githubusercontent.com/markobonna/markobonna/main/assets/icons/apple.svg"></a>
       <a href="https://createwithplay.com" target="_blank"><img align="left" alt="Create with Play" height="42px" src="https://raw.githubusercontent.com/markobonna/markobonna/main/assets/icons/createwithplay.jpeg"></a>
       <a href="https://reactnative.dev/" target="_blank"><img align="left" alt="React Native" height="42px" src="https://cdn.simpleicons.org/react"></a>
@@ -148,6 +150,7 @@
   <tr>
     <th colspan="2" align="center">AI/ML Frameworks & Libraries</th>
   </tr>
+  <tr>
   <td align="center" colspan="2">
     <a href="https://www.llama.com/" target="_blank"><img align="left" alt="Llama" height="42px" src="https://avatars.githubusercontent.com/u/153379578?s=200&v=4"></a>
     <a href="https://pytorch.org/" target="_blank"><img align="left" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/pytorch/pytorch.svg" alt="pytorch" height="42px"/></a>
@@ -162,6 +165,7 @@
   <tr>
     <th colspan="2" align="center">AI Infrastructure & Data</th>
   </tr>
+  <tr>
   <td align="center" colspan="2">
     <a href="https://www.pinecone.io/" target="_blank"><img align="left" src="https://raw.githubusercontent.com/markobonna/markobonna/main/assets/icons/Pinecone-Primary-Logo-Black.svg" alt="pinecone" height="42px"/></a>
     <a href="https://weaviate.io/" target="_blank"><img align="left" src="https://avatars.githubusercontent.com/u/37794290?s=200&v=4" alt="weaviate" height="42px"/></a>
@@ -177,6 +181,7 @@
   <tr>
     <th colspan="2" align="center">AI Services & APIs</th>
   </tr>
+  <tr>
   <td align="center" colspan="2">
     <a href="https://openai.com/" target="_blank"><img align="left" src="https://avatars.githubusercontent.com/u/14957082?s=200&v=4" alt="openai" height="42px"/></a>
     <a href="https://anthropic.com" target="_blank"><img align="left" src="https://avatars.githubusercontent.com/u/76263028?s=200&v=4" alt="anthropic" height="42px"/></a>
